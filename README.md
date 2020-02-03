@@ -40,7 +40,7 @@ This is a repo containing several osint sources.
 * [Infospace](http://infospace.com/) - InfoSpace is a leading provider of white label search and monetization solutions.
 * [Instya](https://www.instya.com/) - By this tool you can searching shopping sites, dictionaries, answer sites, news, images, videos and much more.
 * [iZito](https://www.izito.com/) - izito.com is a search engine that claims search results from all popular search engines, combines them and then deploy to users.
-* [Nextaris](https://www.nextaris.com/] - Harness muliple search engines.
+* [Nextaris](https://www.nextaris.com/) - Harness muliple search engines.
 * [Metabear](http://www.metabear.ru/) - You can choose which search engine you want to use.
 * [Monstercrawler](https://www.monstercrawler.com/) - Monstercrawler combines search results from top authority sites and search engines like Google and Yahoo! to deliver the best search experience on the web.
 * [Myallsearch](https://www.myallsearch.com/) - Get fast results from leading search engines with one click.
@@ -48,6 +48,6 @@ This is a repo containing several osint sources.
 * [Search](https://www.search.com/) - Search the Web by searching the best engines from one place.
 * [Sputtr](http://www.sputtr.com/) - A refreshingly clean way to search the things that matter the most.
 * [SonicRun](http://www.sonicrun.com/) - An internet search engine providing web, meta, article, blog, and news search results.
-* [WebCrawler]](http://www.webcrawler.com/) - a computer program that automatically searches the Internet for specific information.
+* [WebCrawler](http://www.webcrawler.com/) - a computer program that automatically searches the Internet for specific information.
 * [Zapmeta](https://www.zapmeta.com/) - All search results in the search engine are sorted and structured.
 
