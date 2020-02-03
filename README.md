@@ -52,3 +52,10 @@ This is a repo containing several osint sources.
 * [Zapmeta](https://www.zapmeta.com/) - All search results in the search engine are sorted and structured.
 
 ## Visual Search and Clustering Search Engines
+
+* [Answer the Public](https://answerthepublic.com/) - Find out what questions and queries your consumers have by getting a free report of what they're searching for in Google.
+* [Carrot2](https://search.carrot2.org/#/web) - Carrot2 organizes your search results into topics.
+* [Cluuz](https://osintbase.com/cluuz-com/) - Shows results of your search in a chart.
+* [Exalead](https://www.exalead.com/search/) - Exalead shows news and websites related on your search.
+* [iSEEK](https://www.iseek.com/#/web) - iSEEK shows the latest news related on your search.
+* [Yippy](https://www.yippy.com/) - Yippy groups search results into clusters.
