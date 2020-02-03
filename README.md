@@ -62,3 +62,5 @@ This is a repo containing several osint sources.
 * [Yippy](https://www.yippy.com/) - Yippy groups search results into clusters.
 
 ## National Search Engines
+
+* [1ste Keuze (Netherlands)](http://www.eerstekeuze.nl/) - The ultimate search engine. 45,000+ hand-picked internet links in one of the better search engines in the Netherlands.
