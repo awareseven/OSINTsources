@@ -64,3 +64,5 @@ This is a repo containing several osint sources.
 ## National Search Engines
 
 * [1ste Keuze (Netherlands)](http://www.eerstekeuze.nl/) - The ultimate search engine. 45,000+ hand-picked internet links in one of the better search engines in the Netherlands.
+* [360 so (China)](https://www.so.com/) - The google for China
+* [AEIOU (Portugal)](http://www.aeiou.pt/) - The google for Portugal
