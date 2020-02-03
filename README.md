@@ -29,4 +29,25 @@ This is a repo containing several osint sources.
 
 ## Meta Search
 
-* [All-in-One](https://all-io.net/) - 
+* [All-in-One](https://all-io.net/) - You can choose which search engine you want to use.
+* [AllTheInternet](https://www.alltheinternet.com/) - All the Internet is a search engine that respects your privacy.
+* [Bing vs. Google](http://bvsg.org/) - A side-by-side comparison.
+* [Dogpile](https://www.dogpile.com/) - Dogpile is a metasearch engine for information on the World Wide Web that fetches results from Google etc.
+* [eLocalFinder](http://www.elocalfinder.com/HSearch.aspx) - Search made easier.
+* [Etools](https://www.etools.ch/)Simultaneously searches international websites for the best results.
+* [FaganFinder](https://www.faganfinder.com/) - The most comprehensive set of tools for finding information online.
+* [Info.com](https://www.info.com/) - Info is a metasearch engine, which provides results from search engines and directories.
+* [Infospace](http://infospace.com/) - InfoSpace is a leading provider of white label search and monetization solutions.
+* [Instya](https://www.instya.com/) - By this tool you can searching shopping sites, dictionaries, answer sites, news, images, videos and much more.
+* [iZito](https://www.izito.com/) - izito.com is a search engine that claims search results from all popular search engines, combines them and then deploy to users.
+* [Nextaris](https://www.nextaris.com/] - Harness muliple search engines.
+* [Metabear](http://www.metabear.ru/) - You can choose which search engine you want to use.
+* [Monstercrawler](https://www.monstercrawler.com/) - Monstercrawler combines search results from top authority sites and search engines like Google and Yahoo! to deliver the best search experience on the web.
+* [Myallsearch](https://www.myallsearch.com/) - Get fast results from leading search engines with one click.
+* [opentext](https://www.opentext.com/) - A Canadian company that develops and sells enterprise information management software.
+* [Search](https://www.search.com/) - Search the Web by searching the best engines from one place.
+* [Sputtr](http://www.sputtr.com/) - A refreshingly clean way to search the things that matter the most.
+* [SonicRun](http://www.sonicrun.com/) - An internet search engine providing web, meta, article, blog, and news search results.
+* [WebCrawler]](http://www.webcrawler.com/) - a computer program that automatically searches the Internet for specific information.
+* [Zapmeta](https://www.zapmeta.com/) - All search results in the search engine are sorted and structured.
+
