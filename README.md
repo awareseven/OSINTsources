@@ -8,6 +8,7 @@ This is a repo containing several osint sources.
 * [FTP Search](#ftp-search)
 * [IoT Search Engines](#iot-search-engines)
 * [Real-Time Search, Social Media Search, and General Social Media Tools](#real-time-search-social-media-search-and-general-social-media-tools)
+* [Social Media tools: Twitter](#social-media-tools-twitter)
 
 ## General Search
 
@@ -144,4 +145,59 @@ This is a repo containing several osint sources.
 
 ## Real-Time Search, Social Media Search, and General Social Media Tools
 
-* [360 social.me]
+* [360 social.me](http://www.social360monitoring.com/) - Social360 is a leading online media monitoring and analysis company.
+* [Agora pulse](https://www.agorapulse.com) - An easy to use social media management software that allows you to drive engagement and build authentic relationships on one platform.
+* [AIDR](http://aidr.qcri.org/) - AIDR is a free and open platform to filter and classify social media messages.
+* [Audiense](https://audiense.com/) - Discover how to best engage and activate your audiences across multiple online and offline channels. 
+* [Brand24](https://brand24.com/) - Search through the noise to find the posts that matter the most.
+* [Brandwatch](https://www.brandwatch.com/) - Our products add structure and meaning to the voices of billions of people so you can make decisions that truly address consumer needs.
+* [Buffer](https://buffer.com/) - Plan, collaborate, and publish thumb-stopping content that drives meaningful engagement and growth for your brand.
+* [Buzzsumo](https://buzzsumo.com/) - Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers.
+* [CrowdTangle Link Checker](https://chrome.google.com/webstore/detail/crowdtangle-link-checker/klakndphagmmfkpelfkgjbkimjihpmkh) -  An easy way to see how often a link has been shared, who shared it and what they said.
+* [Custom Communities Search](https://inteltechniques.com/osint/communities.html) -  This tool creates custom URL searches that are superior to the standard searching within a site's search menu.
+* [Custom Social Networks Search(https://inteltechniques.com/osint/social.networks.html) - A custom online search tool which automates many search processes.
+* [Cyfe](https://www.cyfe.com/) - Social media, web analytics, marketing, sales, support, infrastructure... monitor everything!
+* [Falcon](https://www.falcon.io/) - Falcon is your social media marketing platform built on social analytics, community engagement and governance for Facebook, Twitter, LinkedIn, and Instagram.
+* [Gaddr](https://www.gaddr.me) - Gaddr.me is the search engine for social profiles.
+* [Geocreepy](http://www.geocreepy.com/) - Offers geolocation information gathering through social networking platforms.
+* [Geofeedia](https://geofeedia.com/) - Geofeedia is the market leader in location-based social media monitoring, intelligence and analysis for corporate security and more.
+* [Hootsuite](https://hootsuite.com/) - Save valuable time by planning social media contributions in advance.
+* [HowSociable](https://howsociable.com/) -  Get reliable advice, how-to guides, reviews, and much more from HowSociable social media enthusiasts.
+* [Hashatit](https://www.hashatit.com/) - Search Hashtags on Facebook, Twitter, Instagram and Pinterest in real time.
+* [Keybase](https://keybase.io/) - Keybase is for keeping everyone's chats and files safe, from families to communities to companies.
+* [Keyhole](https://keyhole.co/) - Keyhole is a Hashtag Analytics and Social Media Analytics company who provides real-time data with hashtag tracking for Twitter, Instagram and Facebook.
+* [Klear](https://klear.com/) - Klear is an influencer marketing platform that helps brands build, scale and measure influencer campaigns.
+* [Kred](https://www.home.kred/) - Kred is a global community of leading bloggers, champion content creators, social-savvy CEOs, blockchain pioneers and the new movers and shakers.
+* [ManyContacts Mail Check](https://www.manycontacts.com/en/mail-check) - Provide email addresses and we discover all related social network profiles: linkedin, twitter, facebook, angelList... you also get the names, jobs, address, phone
+* [Mention](https://mention.com/en/) - Mention enables brands and agencies to monitor the web, listen to their audience and manage social media.
+* [MustBePresent](https://sproutsocial.com/) - Understand and reach your audience, engage your community and measure performance with the only all-in-one social media management platform built for connection.
+* [netlytic](https://netlytic.org/) - Netlytic is a community-supported text and social networks analyzer for social media researchers and educators to study public discourse on social media sites.
+* [Netvibes](https://www.netvibes.com/en) - Netvibes is a free, Ajax-based online service for the homepage of a software company of the same name from France.
+* [NUVI](https://nuvi.com/) - Nuvi’s permissions-based collaboration and workflow allow you to include the right team members at the right time to help you build and launch campaigns faster and with maximum impact.
+* [OpinionCrawl](http://opinioncrawl.com/) - Online sentiment analysis for current events, companies, products, and people.
+* [Profilr](https://www.profilr.social/) - Profilr.social shows every social media profile who you are looking for.
+* [Pulsar](https://www.pulsarplatform.com/) - An advanced audience analysis and social listening platform, delivering audience insights & marketing personalization strategy to dynamic brands & agencies.
+* [Rival IQ](https://www.rivaliq.com/) - Social media marketing analytics with advanced competitive analysis, SEO, social reporting and content marketing tools.
+* [RSS Social Analyzer](https://chrome.google.com/webstore/detail/rss-social-analyzer/ncmajlpbfckecekfamgfkmckbpihjfdn?hl=en) - Automatically detects a site's RSS feed(s), and provides at-a-glance social sharing metrics for the site's recent posts.
+* [Samdesk](https://www.samdesk.io/) - SAM delivers crisis alerts in real-time so you can know sooner, act quicker and make smarter decisions.
+* [Sendible](https://www.sendible.com/) - Manage & amplify multiple brands on social media with Sendible. 
+* [Smaller Social Networks Search](https://inteltechniques.com/osint/smaller.social.networks.ht) - A custom online search tool which automates many search processes.
+* [SocialBakers](https://www.socialbakers.com/) - Manage and measure everything from social media to your audiences in one place. 
+* [SocialBlade](https://socialblade.com/) - SocialBlade can help you track YouTube Channel Statistics, Twitch User Stats, Instagram Stats, and much more.
+* [Social DownORNot](http://social.downornot.com/) - Social Networks real-time availability and performance status.
+* [Socialhome](https://socialhome.network/) - Socialhome allows you to build a rich profile that federates across the federated social web.
+* [Social Media Monitoring Solutions](http://wiki.kenburbary.com/social-meda-monitoring-wiki) - They show solutions for social media monitoring.
+* [Social Mention](https://socialmention.com) - Social Mention is a real time search engine for selected social media offers.
+* [Socialsear.ch](http://www.socialsear.ch/) - Search movies, TV shows, sports teams or a single #hashtag.
+* [Social Searcher](https://www.social-searcher.com/) - Start real-time mentions monitoring in social media and web.
+* [Sprout Social](https://sproutsocial.com/) - nderstand and reach your audience, engage your community and measure performance with the only all-in-one social media management platform built for connection.
+* [Storyful Multisearch](https://chrome.google.com/webstore/detail/storyful-multisearch/hkglibabhninbjmaccpajiakojeacnaf?hl=en) - Storyful is a social media intelligence agency that sources and verifies insights for media, communications and brand partners by analyzing digital content.
+* [Tagboard](https://tagboard.com/) - Manage your tagboards and feature public posts directly from Facebook, Twitter, and Instagram.
+* [https://reputationrefinery.com/ -  Get a 15-page, customized, solution for repairing & growing your reputation.
+* [UnionMetrics](https://unionmetrics.com/) - Improve your social strategy with social marketing intelligence from Union Metrics.
+* [UVRX}](http://uvrx.com/social.html) - Uvrx.com is dedicated to providing the most comprehensive online file storage search engine, and we will continue updating and improving it as often as possible.
+* [Visibrain](https://www.visibrain.com/en/) - Visibrain is a media monitoring platform for PR rofessionals.
+* [Webometric](http://lexiurl.wlv.ac.uk/) - Webometry is a field of research that uses measurements to examine the World Wide Web.
+* [Zoho Social](https://www.zoho.com/social/social-media-monitoring.html) - Schedule unlimited posts with Zoho Social, monitor what's important, and create custom reports to analyze your performance on social networks.
+
+# Social Media Tools: Twitter
