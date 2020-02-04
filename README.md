@@ -125,6 +125,6 @@ This is a repo containing several osint sources.
 * [Qq.com (China)](https://www.qq.com/?fromdefault) - We deliver news- every few minutes.
 * [Zoznam (Slovakia)](https://www.zoznam.sk/) - Well-arranged List of links of the Slovak Internet - up-to-date information, news and more.
 
-##FTP Search
+## FTP Search
 
 * [Archie]
