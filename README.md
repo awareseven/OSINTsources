@@ -7,7 +7,7 @@ This is a repo containing several osint sources.
 * [National Search Engines](#national-search-engines)
 * [FTP Search](#ftp-search)
 * [IoT Search Engines](#iot-search-engines)
-* [Real-Time Search, Social Media Search, and General Social Media Tools](#real-time-search,-social-media-search,-and-general-social-media-tools)
+* [Real-Time Search, Social Media Search, and General Social Media Tools](#real-time-search-social-media-search-and-general-social-media-tools)
 
 ## General Search
 
