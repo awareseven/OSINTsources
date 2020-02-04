@@ -155,7 +155,7 @@ This is a repo containing several osint sources.
 * [Buzzsumo](https://buzzsumo.com/) - Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers.
 * [CrowdTangle Link Checker](https://chrome.google.com/webstore/detail/crowdtangle-link-checker/klakndphagmmfkpelfkgjbkimjihpmkh) -  An easy way to see how often a link has been shared, who shared it and what they said.
 * [Custom Communities Search](https://inteltechniques.com/osint/communities.html) -  This tool creates custom URL searches that are superior to the standard searching within a site's search menu.
-* [Custom Social Networks Search(https://inteltechniques.com/osint/social.networks.html) - A custom online search tool which automates many search processes.
+* [Custom Social Networks Search](https://inteltechniques.com/osint/social.networks.html) - A custom online search tool which automates many search processes.
 * [Cyfe](https://www.cyfe.com/) - Social media, web analytics, marketing, sales, support, infrastructure... monitor everything!
 * [Falcon](https://www.falcon.io/) - Falcon is your social media marketing platform built on social analytics, community engagement and governance for Facebook, Twitter, LinkedIn, and Instagram.
 * [Gaddr](https://www.gaddr.me) - Gaddr.me is the search engine for social profiles.
@@ -201,3 +201,7 @@ This is a repo containing several osint sources.
 * [Zoho Social](https://www.zoho.com/social/social-media-monitoring.html) - Schedule unlimited posts with Zoho Social, monitor what's important, and create custom reports to analyze your performance on social networks.
 
 # Social Media Tools: Twitter
+
+* [AccountAnalysis](https://accountanalysis.app/) - This tool enables you to evaluate Twitter accounts. For example how automated they are, how many Retweets they post, or which websites they link to most often.
+* [AllDeletedTweets From Politicians](https://politwoops.com/countries) - Select a country from which you want to see the deleted tweets from politicians.
+* [AllMyTweets](https://www.allmytweets.net/connect/) - View all your tweets, likes and followers on one page.
