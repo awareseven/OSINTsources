@@ -6,6 +6,7 @@ This is a repo containing several osint sources.
 * [Visual Search and Clustering Search Engines](#visual-search-and-clustering-search-engines)
 * [National Search Engines](#national-search-engines)
 * [FTP Search](#ftp-search)
+* [IoT Search Engines](#iot-search-engines)
 
 ## General Search
 
@@ -128,4 +129,10 @@ This is a repo containing several osint sources.
 
 ## FTP Search
 
-* [Archie].
+* [Archie](http://archie.icm.edu.pl/archie-adv_eng.html) - By default, Archie inserts "OR" operators between all of the terms of your query.
+* [Global File Search](https://globalfilesearch.com/) - Global FTP Search Engine and Global File Search Engine
+* [MMNT](https://www.mmnt.ru/) - Russian FTP search engine with the largest database so far.
+* [NAPALM FTP Indexer](https://www.searchftps.net/) - The most advanced FTP Indexer and FTP Search Engine service maintained by members. Search and download files from public FTP servers.
+
+## IoT Search Engines
+
