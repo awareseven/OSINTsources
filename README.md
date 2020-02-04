@@ -136,3 +136,7 @@ This is a repo containing several osint sources.
 
 ## IoT Search Engines
 
+* [Internet of Things Scanner](https://www.bullguard.com/de) - Protect all your devices against malware, spyware and ransomware with BullGuard award winning Security Suite.
+* [Shodan](https://www.shodan.io/) - Use Shodan to discover which of your devices are connected to the Internet, where they are located and who is using them.
+* [Thingful](http://www.thingful.net/) - Thingful is a search engine for the Internet of Things, enabling secure discoverability and interoperability between millions of public and private connected.
+* [Zoomeye](https://www.zoomeye.org/) - Top Services. Top Countries. Top Organizations. Pack Up - shadow.
