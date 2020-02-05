@@ -193,7 +193,7 @@ This is a repo containing several osint sources.
 * [Sprout Social](https://sproutsocial.com/) - nderstand and reach your audience, engage your community and measure performance with the only all-in-one social media management platform built for connection.
 * [Storyful Multisearch](https://chrome.google.com/webstore/detail/storyful-multisearch/hkglibabhninbjmaccpajiakojeacnaf?hl=en) - Storyful is a social media intelligence agency that sources and verifies insights for media, communications and brand partners by analyzing digital content.
 * [Tagboard](https://tagboard.com/) - Manage your tagboards and feature public posts directly from Facebook, Twitter, and Instagram.
-* [https://reputationrefinery.com/ -  Get a 15-page, customized, solution for repairing & growing your reputation.
+* [Trackur](https://reputationrefinery.com/) -  Get a 15-page, customized, solution for repairing & growing your reputation.
 * [UnionMetrics](https://unionmetrics.com/) - Improve your social strategy with social marketing intelligence from Union Metrics.
 * [UVRX}](http://uvrx.com/social.html) - Uvrx.com is dedicated to providing the most comprehensive online file storage search engine, and we will continue updating and improving it as often as possible.
 * [Visibrain](https://www.visibrain.com/en/) - Visibrain is a media monitoring platform for PR rofessionals.
@@ -205,3 +205,6 @@ This is a repo containing several osint sources.
 * [AccountAnalysis](https://accountanalysis.app/) - This tool enables you to evaluate Twitter accounts. For example how automated they are, how many Retweets they post, or which websites they link to most often.
 * [AllDeletedTweets From Politicians](https://politwoops.com/countries) - Select a country from which you want to see the deleted tweets from politicians.
 * [AllMyTweets](https://www.allmytweets.net/connect/) - View all your tweets, likes and followers on one page.
+* [Audiense](https://audiense.com/) - Discover how to best engage and activate your audiences across multiple online and offline channels. 
+* [Backtweets](http://backtweets.com/) - 
+* [Birdwatcher](https://n0where.net/twitter-osint-framework
