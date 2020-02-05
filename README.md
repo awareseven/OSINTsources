@@ -190,7 +190,7 @@ This is a repo containing several osint sources.
 * [Social Mention](https://socialmention.com) - Social Mention is a real time search engine for selected social media offers.
 * [Socialsear.ch](http://www.socialsear.ch/) - Search movies, TV shows, sports teams or a single #hashtag.
 * [Social Searcher](https://www.social-searcher.com/) - Start real-time mentions monitoring in social media and web.
-* [Sprout Social](https://sproutsocial.com/) - nderstand and reach your audience, engage your community and measure performance with the only all-in-one social media management platform built for connection.
+* [Sprout Social](https://sproutsocial.com/) - Understand and reach your audience, engage your community and measure performance with the only all-in-one social media management platform built for connection.
 * [Storyful Multisearch](https://chrome.google.com/webstore/detail/storyful-multisearch/hkglibabhninbjmaccpajiakojeacnaf?hl=en) - Storyful is a social media intelligence agency that sources and verifies insights for media, communications and brand partners by analyzing digital content.
 * [Tagboard](https://tagboard.com/) - Manage your tagboards and feature public posts directly from Facebook, Twitter, and Instagram.
 * [Trackur](https://reputationrefinery.com/) -  Get a 15-page, customized, solution for repairing & growing your reputation.
@@ -206,5 +206,110 @@ This is a repo containing several osint sources.
 * [AllDeletedTweets From Politicians](https://politwoops.com/countries) - Select a country from which you want to see the deleted tweets from politicians.
 * [AllMyTweets](https://www.allmytweets.net/connect/) - View all your tweets, likes and followers on one page.
 * [Audiense](https://audiense.com/) - Discover how to best engage and activate your audiences across multiple online and offline channels. 
-* [Backtweets](http://backtweets.com/) - 
-* [Birdwatcher](https://n0where.net/twitter-osint-framework
+* [Backtweets](http://backtweets.com/) - BackTweets enables you to search through an archive of old tweets and find tweets that link back to your site.
+* [Birdwatcher](https://n0where.net/twitter-osint-framework) - Birdwatcher is a data analysis and OSINT framework for Twitter.
+* [Blue Nod](https://bluenod.com/) - Bluenod is a simple way to find influencers with Twitter visualization.
+* [Botcheck.me](https://botcheck.me/) - Botcheck.me warnt vot Propaganda-Bots auf Twitter.
+* [Botometer](https://botometer.iuni.iu.edu/#!/) - Botometer (formerly BotOrNot) checks the activity of a Twitter account and gives it a score based on how likely the account is to be a bot.
+* [Burrrd](https://burrrd.com/) - burrrd. provides advanced insights and analytics for public Twitter accounts presented with a beautiful UI.
+* [BU-TCAT](https://sites.bu.edu/cmcs/bu-tcat/) - The BU-TCAT allows Boston University students and faculty–and even off campus researchers–to examine Tweets off the STREAM API and then process the data for network analysis and visualization in Gephi.
+* [Charm](https://charm.benapps.net/) - Charm is a Twitter companion app for iOS. Organise Tweets into collections, save articles for later, cue up playlists of music you find, or transcribe conversations.
+* [Chorus](http://chorusanalytics.co.uk/chorus/request_download.php) - Free software for Twitter data collection and visual analytics.
+* [Commun.it](https://commun.it/) - Commun.it is quick and easy. Manage your followers; thank your followers and most importantly grow your followers.
+* [COSMOS](http://socialdatalab.net/COSMOS) - The COSMOS software provides ethical access to social media data for social science researchers.
+* [Custom Twitter tools](https://inteltechniques.com/menu.html) - Wrapper page to advanced twitter search.
+* [Deadbird](https://keitharm.me/project/deadbird) - Deadbird tracks the tweets of Twitter users to see if they have been deleted.
+* [Discover Text](https://discovertext.com/) - DiscoverText is a collaborative text, survey, and Twitter data science software.
+* [DMI-TCAT](https://github.com/digitalmethodsinitiative/dmi-tcat) - The Digital Methods Initiative Twitter Capture and Analysis Toolset (DMI-TCAT) is a set of tools to retrieve and collect tweets from Twitter and to analyze them in various ways.
+* [doesfollow](https://doesfollow.com/) - Who follows whom.
+* [Download Twitter Video](https://www.downloadtwittervideo.com/) - Download Twitter Videos.
+* [Echosec](https://app.echosec.net/) - Echosec Systems is a data discovery company delivering social media and dark web threat intelligence.
+* [Fake Followers Check](https://fakers.statuspeople.com/) - Find out how many fake followers you and your friends have.
+* [First Tweet](http://ctrlq.org/first/) - Find anyone’s first Tweet.
+* [FlipFeed](https://www.media.mit.edu/projects/flipfeed/overview/) - FlipFeed is a Google Chrome Extension that enables Twitter users to replace their own feed with that of another real Twitter user.
+* [Foller.me](https://foller.me/) - Foller.me is a Twitter analytics application that gives you rich insights about any public Twitter profile.
+* [Followerwonk](https://followerwonk.com/) - Followerwonk helps you explore and grow your social graph.
+* [Followthehashtag](http://followthehashtag.com/) - Followthehashtag is a Twitter intelligence and analytics tool based in keyword search.
+* [GeoSocial Footprint](http://geosocialfootprint.com/) - Geolocating tweets and users.
+* [Geotweet](http://geotweet.altervista.org/) - Social engineering tool for human hacking.
+* [GetTwitterID](http://gettwitterid.com/) - Retrieve user ID of twitter’s users.
+* [Gigatweeter](http://gigatweeter.com/) - Stream Twitter trending topics live.
+* [HappyGrumpy](https://www.happygrumpy.com/) - Emotional patterns analysis.
+* [Hashtagify](https://hashtagify.me/hashtag/tbt) - Trending hashtags search.
+* [Hashtags.org](https://www.hashtags.org/) - Hashtag Analytics for your Brand, Business, Product, Service, Event or Blog.
+* [Jooicer](https://jooicer.com/) - Jooicer lets you grow your Twitter audience by using specific modules for each kind of action.
+* [Keyhole](https://keyhole.co/) - Keyhole is a Hashtag Analytics and Social Media Analytics company who provides real-time data with hashtag tracking for Twitter, Instagram and Facebook.
+* [Klear](https://klear.com/) - Klear is an influencer marketing platform that helps brands build, scale and measure influencer campaigns.
+* [ManageFlitter](https://www.manageflitter.com/) - ManageFlitter is a web-based application that assists Twitter users gain insight into their Twitter account.
+* [MentionMapp](https://mentionmapp.com/) - Mentionmapp Analytics is a network visualization, social media information & data analytics business.
+* [nowTweets](http://nowtweets.com/) - Geolocation-based, real-time Twitter analytics. Presented using an easy to use map interface.
+* [OneMillionTweetsMap](https://onemilliontweetmap.com/) - Realtime map of last geolocalized tweets delivered.
+* [Queryfeed](https://queryfeed.net/) - Convert Twitter, Google Plus and Facebook streams to RSS.
+* [RiteTag](https://ritetag.com/) - Get instant hashtag suggestions for images and texts on desktop and mobile. Based on real time hashtag engagement.
+* [SaveVideo](http://savevideo.me/?lang=en) - Download and save videos from Dailymotion, Facebook, Vimeo, Twitter and more.
+* [Sentiment140](http://www.twittersentiment.appspot.com/) - Discover the Twitter sentiment for a product or brand.
+* [Silver Bird](https://chrome.google.com/webstore/detail/silber-bird/eaehbdhmohpmebonhmlahopbinkgdkml) - Silver Bird is a Twitter extension that allows you to follow your timelines and interact with your Twitter account.
+* [Sleeping Time](http://sleepingtime.org/) - Specify the Twitter username of your friend, or even your favorite celebrity, and we will figure out the sleeping pattern of that person.
+* [SnapBird](https://snapbird.org/) - Search your twitter DMs, mentions, likes and favorites, and timelines.
+* [Social Bearing](https://socialbearing.com/) - Powerful Twitter analytics. Find, filter and sort tweets or handles by influence, engagement, sentiment, location and more.
+* [Social Rank First Follower](https://socialrank.com/firstfollower) - Who was your #FirstFollower on Twitter.
+* [SocioViz](https://socioviz.net/) - SocioViz is a social media analytics platform.
+* [Spoonbill](https://spoonbill.io/) - Spoonbill lets you see profile changes from the people you follow on Twitter or other social networks.
+* [tagboard](https://tagboard.com/) - Manage your tagboards and feature public posts directly from Facebook, Twitter, and Instagram.
+* [Tagdef](https://tagdef.com/de/) - Discover what hashtags mean.
+* [TAGS](https://tags.hawksey.info/) - TAGS is a free Google Sheet template which lets you setup and run automated collection of search results from Twitter.
+* [Thread Reader](https://threadreaderapp.com/) - Thread Reader helps you discover and read the best of Twitter Threads.
+* [Tinfoleak](https://tinfoleak.com/) - Search for Twitter users leaks.
+* [Treeverse](https://chrome.google.com/webstore/detail/treeverse/aahmjdadniahaicebomlagekkcnlcila?hl=en) - Treeverse is a tool for visualizing and navigating Twitter conversation threads.
+* [Trends24](https://trends24.in/) -  Keep track of the latest Twitter trending topics and hashtags through out the day locally and globally.
+* [TrendsMap](https://www.trendsmap.com/) - Twitter trending hashtags and topics mapped. 
+* [Twayback Machine](http://staringispolite.github.io/twayback-machine/) - The Twayback Machine makes it ever-so-slightly easier to jump back in time to your friends' Twitter feeds from long ago, for fun and trolling.
+* [Twazzup](http://new.twazzup.com/) - Get realtime insights from twitter.
+* [twbirthday](http://twbirthday.com/) - Twitter birthday.
+* [twchat](http://twchat.com/) - Realtime chat rooms based on twitter hashtag.
+* [TWDOWN](https://twdown.net/) - TwDown is the best and easiest twitter video downloader.
+* [TweepDiff](https://tweepdiff.com/) - Compare Twitter friends and followers.
+* [TweepleSearch](https://tweeplesearch.com/) - Find your business highly relevant audience & powerful influencers on Twitter.
+* [Tweepsect](https://tweepsect.com/) - Find out who Twitter users are stalking (and who is stalking them).
+* [Tweepsmap](http://tweepsmap.com/) - Analyze and target your Twitter followers by location and demographics.
+* [Tweet Archiver](https://gsuite.google.com/marketplace/app/tweet_archiver/976886281542?pann=cwsdp&hl=en) - The Twitter Archiver lets you easily save tweets for any search keyword or hashtag in a Google Spreadsheet. 
+* [Tweet Archivist](http://www.tweetarchivist.com/) - Essential analytics for tracking and archiving Twitter.
+* [Tweetbeaver](https://tweetbeaver.com/) - Really useful free Twitter analytics. Search and download timelines, friends and followers. Get account data, Twitter ID and more.
+* [TweetDeck](https://tweetdeck.twitter.com/) - Twitter dashboard.
+* [TweeterID](https://tweeterid.com/) - Type in any Twitter ID or @handle below, and it will be converted into the respective ID or username.
+* [TweetMap](https://www.omnisci.com/demos/tweetmap/) - Explore millions of tweets with OmniSci's GPU-powered interactive tweetmap.
+* [Tweet Mapper](https://keitharm.me/projects/tweet/) - Tweet Mapper provides a nice visual map of the world filled with markers signifying locations of tweets from a supplied user.
+* [TweetPsych](http://tweetpsych.com/) - TweetPsych lists creates a psychological profile of any public Twitter account and compares it to the thousands already in the database.
+* [Tweetreach](https://tweetreach.com/) - owerful Twitter analytics for smart marketers.
+* [Tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer.
+* [TweetStats](http://www.tweetstats.com/) - Graphical twitter stats.
+* [Tweet Tag](https://www.tweet-tag.com/) - Service to monitor a hashtag in real-time.
+* [TweetTunnel](http://tweettunnel.com/) - Some special features that you wouldn’t find on Twitter.
+* [Twellow](https://twellow.com/) - Twellow is a people search tool for the micro-blogging service Twitter.
+* [Tweriod](https://www.tweriod.com/) - Analyse both your tweets and your followers’ tweets and gives you the best times to tweet.
+* [Twiangulate](http://twiangulate.com/search/) - Discover which accounts are followed by key people.
+* [Twicsy](https://twicsy.com/) - Twicsy's mission is to help you navigate the constantly changing social media marketing landscape.
+* [Twilert](https://twilert.com/) - Twitter Alerts and Monitoring System.
+* [Twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
+* [Twimap](https://twimap.com/) - TwiMap let's you find Twitter users nearby you or just explore Tweets around the world.
+* [Twipho](http://www.twipho.net/) - Find out what’s happening right now on twitter, in photos.
+* [TwiSSR](http://www.twissr.com/) - Twitter to RSS Service.
+* [Twitonomy](http://www.twitonomy.com/) - Twitter analytics.
+* [TwitRSS](https://twitrss.me/) - Get your twitter user feed as RSS.
+* [Twitter Account Details](http://www.twitteraccountsdetails.com/) - Get anyone's Twitter information, account statistics, and account design specifics fast and easily.
+* [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en) - Find whatever you're looking for.
+* [Twitter Audit](https://www.twitteraudit.com/) - Twitter Audit shows you how many of your followers are real.
+* [Twitter BFTD](https://github.com/misterch0c/twitterBFTD) - Twitter Back From The Dead looks in a user tweets history for domain names that are available for registration.
+* [Twitter Chat Schedule](https://www.tweetreports.com/twitter-chat-schedule/) - World's largest list of Twitter Chats.
+* [Twitterfall](https://twitterfall.com/) - Twitterfall is a web-based Twitter client where tweets fall down the screen like a waterfall.
+* [Twitter List Copy](http://projects.noahliebman.net/listcopy/connect.php) - Use this ugly-but-functional tool to copy any Twitter list to one of your own.
+* [Twitter Search](https://search.twitter.com) - Ordinary Twitter search.
+* [Twitter Search Tools](https://inteltechniques.com/menu.html) - Use the search tools to find the latest news and global events faster.
+* [Twlets](http://twlets.com/) - Get anyone's tweets, followers, likes, videos, and more into Excel.
+* [Twopcharts](https://twopcharts.com/) - Search any Twitter Account, Tweets or check any Twitter Profile.
+* [twoogel](http://twoogel.com/) - Twoogel is a Twitter search engine powered by Google.
+* [twXplorer](https://twxplorer.knightlab.com/) - You can enter search terms to see a snapshot of related activity in the latest 500 tweets.
+* [TWUBS Twitter Chats](http://twubs.com/twitter-chats) - Twubs is the best place to host and participate in Twitter Chats. Register your's today or find others that interest you.
+* [unfollowgram](https://unfollowgram.com/) - Best way how to manage and analyze your Twitter friends. Check who unfollowed you, who doesn't follow you back and more.
+* [Video Downloader for Twitter](https://www.downloadtwittervideo.com/) - Download Twitter Videos.
+* [Warble](https://warble.co/) - Track keywords, phrases, #hashtags, @mentions and more.
