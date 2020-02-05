@@ -196,7 +196,7 @@ This is a repo containing several osint sources.
 * [Tagboard](https://tagboard.com/) - Manage your tagboards and feature public posts directly from Facebook, Twitter, and Instagram.
 * [Trackur](https://reputationrefinery.com/) -  Get a 15-page, customized, solution for repairing & growing your reputation.
 * [UnionMetrics](https://unionmetrics.com/) - Improve your social strategy with social marketing intelligence from Union Metrics.
-* [UVRX}](http://uvrx.com/social.html) - Uvrx.com is dedicated to providing the most comprehensive online file storage search engine, and we will continue updating and improving it as often as possible.
+* [UVRX](http://uvrx.com/social.html) - Uvrx.com is dedicated to providing the most comprehensive online file storage search engine, and we will continue updating and improving it as often as possible.
 * [Visibrain](https://www.visibrain.com/en/) - Visibrain is a media monitoring platform for PR rofessionals.
 * [Webometric](http://lexiurl.wlv.ac.uk/) - Webometry is a field of research that uses measurements to examine the World Wide Web.
 * [Zoho Social](https://www.zoho.com/social/social-media-monitoring.html) - Schedule unlimited posts with Zoho Social, monitor what's important, and create custom reports to analyze your performance on social networks.
@@ -317,3 +317,20 @@ This is a repo containing several osint sources.
 
 # Social Media Tools: Facebook
 
+* [Agora Pulse](https://barometer.agorapulse.com/home) - Find out how your page performances are compared to the average performances of the 53,285 pages added to the Barometer.
+* [Bulk Facebook ID Finder](https://seotoolstation.com/bulk-facebook-id-finder) - This tool helps you to find the Facebook IDs for any group and profile.
+* [Commun.it](https://commun.it/) - Commun.it is quick and easy. Manage your followers; thank your followers and most importantly grow your followers.
+* [Custom Facebook Tools](https://inteltechniques.com/osint/facebook.html) - Wrapper page to facebook search.
+* [Deturl.com Video Downloads](http://deturl.com/www.youtube.com/watch?v=uqnqLrakxY8) - Download a video from any web page.
+* [Dredown](https://www.dredown.com/) - Download videos from all platforms, like YouTube, Facebook, Instagram and others with 1 click.
+* [Expand All Facebook Comments](http://com.hemiola.com/2015/08/29/expand-all/) - This tool expands all comments and replies in Facebook posts.
+* [Facebook Like Checker](http://fblikecheck.com/) - Check Facebook page likes country-wise.
+* [Facebook Livemap](https://www.facebook.com/livemap) - Facebook Livemap shows all live videos on a map.
+* [Facebook People Search](https://www.facebook.com/people-search.php) - The smartest tool to search people on facebook by location, jobs or name.
+* [Facebook Search](https://search.fb.com) - The Facebook Search that will help find everything you search on Facebook.
+* [Facebook Search Tool](http://netbootcamp.org/facebook.html) - Facebook Search Tool for investigators: Search keyword, fbid, profile, photo, video, comment, post, check-in, employer, city, school, group and more.
+* [Facebook Search Tools](https://inteltechniques.com/osint/facebook.html) - With the web app "Facebook Search Tool" from IntelTechniques you can find out a lot of information about any Facebook account.
+* [Facebook Video Downloader](https://fbdown.net/) - Facebook Video Downloader.
+* [Fanpage Karma](https://www.fanpagekarma.com/) - Monitor any Facebook page with the best analytics and monitoring tool. Create insight reports and optimize your social media marketing strategy.
+* [FB DOWN](https://fbdown.net/) - Facebook Video Downloader.
+* [FB Scan Tool](https://pitoolbox.com.au/facebook-tool/) - This Scan Tool locates all open source information usually hidden by Facebook. Our Tool makes it easy for you to build a complete picture of an individual’s Facebook account and uncover information which may assist you in your research.
