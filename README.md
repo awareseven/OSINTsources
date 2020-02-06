@@ -386,3 +386,22 @@ This is a repo containing several osint sources.
 
 # Social Media Tools: Reddit
 
+* [Imgur](https://imgur.com/) - Images, #tags, @users and more.
+* [Karma Decay](http://karmadecay.com/) - Reverse image search of Reddit.com
+* [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - ostly Harmless looks up the page you are currently viewing to see if it has been submitted to reddit.
+* [Reddit All Comments Viewer Secure](https://chrome.google.com/webstore/detail/reddit-all-comments-viewe/hgpgeobpjpchpmkecjppgcnekmbibgbi?hl=en-GB) - Reddit All Comments Viewer Secure loads all comments slowly but steadily.
+* [Reddit Archieve](http://www.redditarchive.com/) - Shows the latest Reddits.
+* [Reddit List](http://redditlist.com/) - View recent activities, subscribers and growth(24 hrs).
+* [Reddit Investigator](https://www.redditinvestigator.com/) - Collects data that reddit makes avaible and elaborates it to obtain some infos about users.
+* [Reddit Metrics](https://redditmetrics.com/) - Reddit Metrics is a tool for tracking statistics and discovering the fastest growing communities on reddit.
+* [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - 
+* [Reddit Watch](https://redditwatch.com/) - They will send you a message or an email every day to keep you updated about what's happening on reddit.
+* [Redective](http://redective.com/) - The Reddit Search Detective.
+* [ReSavr](https://www.resavr.com/) - Deleted Reddit Comments.
+* [Savvit.io](http://savvit.io/) - Organize, sort and search all your saved reddit posts.
+* [SnoopSnoo](https://snoopsnoo.com/) - Get insights on your reddit activity.
+* [Subreddits](http://subreddits.org/) - A categorized grouping of subreddits.
+* [TopIAmA](https://www.topiama.com) - The best Reddit IAmA's in a readable format.
+* [uforio](http://uforio.com/) -Alternative Reddit Client.
+* [Un-Delete Reddit Comments](https://chrome.google.com/webstore/detail/un-delete-reddit-comments/goelkfmlebeihlnanaindammeonplnhi?hl=en) - Save a cached copy of the current reddit page you're viewing to preserve comments in case they're deleted.
+
