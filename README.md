@@ -451,3 +451,5 @@ This is a repo containing several osint sources.
 * [Web Resolver](https://webresolver.nl/) - Shows hidden skype informations.
 
 # Dating Apps
+
+* [Dating Apps and Sites for Investigators by Emmanuelle Welch](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators) - Dating apps and hook up sites for investigators.
