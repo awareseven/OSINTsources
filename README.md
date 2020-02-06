@@ -419,7 +419,7 @@ This is a repo containing several osint sources.
 * [VK5](http://vk5.city4me.com/) - Find likes and see hidden friends.
 * [VK Community Search](https://vk.com/communities) - Search for Communities.
 * [VK Parser](http://vkparser.ru/) - Parser of people and posts on VKontakte. Simple and convenient software for those who deserve VKontakte.
-* [VK People Search](https://vk.com/people] - Search for people.
+* [VK People Search](https://vk.com/people) - Search for people.
 * [VK to RSS Appspot](http://vk-to-rss.appspot.com/) - Search for people or communities.
 * [vMetaDate](https://gist.github.com/cryptolok/8a023875b47e20bc5e64ba8e27294261) - Small tool to retreive vk.com users hidden metadata (state, access, dates, counts, etc) anonymously.
 
