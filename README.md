@@ -178,7 +178,7 @@ This is a repo containing several osint sources.
 * [Keyhole](https://keyhole.co/) - Keyhole is a Hashtag Analytics and Social Media Analytics company who provides real-time data with hashtag tracking for Twitter, Instagram and Facebook.
 * [Klear](https://klear.com/) - Klear is an influencer marketing platform that helps brands build, scale and measure influencer campaigns.
 * [Kred](https://www.home.kred/) - Kred is a global community of leading bloggers, champion content creators, social-savvy CEOs, blockchain pioneers and the new movers and shakers.
-* [ManyContacts Mail Check](https://www.manycontacts.com/en/mail-check) - Provide email addresses and we discover all related social network profiles: linkedin, twitter, facebook, angelList... you also get the names, jobs, address, phone
+* [ManyContacts Mail Check](https://www.manycontacts.com/en/mail-check) - Provide email addresses and we discover all related social network profiles: linkedin, twitter, facebook, angelList... you also get the names, jobs, address, phone number and more.
 * [Mention](https://mention.com/en/) - Mention enables brands and agencies to monitor the web, listen to their audience and manage social media.
 * [MustBePresent](https://sproutsocial.com/) - Understand and reach your audience, engage your community and measure performance with the only all-in-one social media management platform built for connection.
 * [netlytic](https://netlytic.org/) - Netlytic is a community-supported text and social networks analyzer for social media researchers and educators to study public discourse on social media sites.
@@ -470,3 +470,53 @@ This is a repo containing several osint sources.
 
 # Main People Search Tools and Engines
 
+* [411 (US)](https://www.411.com/) - Find Contact Information on yourself or anyone else.
+* [Addresses (US)](https://www.addresses.com/) - Search Addresses, Phone Numbers, Business & People.
+* [Alumni.net](https://www.alumni.net/) - Alumni.NET is a social site that enables people to find jobs, promote company products, recruit employees, relive school days, view school news, and more.
+* [AnyWho (US)](https://www.anywho.com/whitepages) - Find People in Our People Search Directory.
+* [Classmates](https://www.classmates.com/) - Find high school friends, Plan your high school reunion and look at the old high school yearbooks.
+* [CrunchBase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them.
+* [Custom Person Search Tool](https://inteltechniques.com/osint/person.html) - Search for people you are looking for.
+* [dataScrape](https://github.com/khayes-r7/dataScrape) - Enumerates employee names from connect.data.com.
+* [Discoverly](https://chrome.google.com/webstore/detail/discoverly/dijhcpbkalfgkcebgoncjmfpbamihgaf) - Reveal, and now save, more complete social contact info alongside those online profiles you normally view.
+* [facesearch](http://www.facesaerch.com/) - Face Search Engine.
+* [FTL](https://chrome.google.com/webstore/detail/findthatlead/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB) - Find any email you need on LinkedIn, Twitter and web domains.
+* [GPSies](https://www.alltrails.com/) - Find your next favorite trail.
+* [Gravatar](http://en.gravatar.com/) - Your Gravatar is an image that follows you from site to site appearing beside your name when you do things like comment or post on a blog.
+* [Hey Press (Search for Journalists)](https://www.hey.press/) - Find relevant journalists.
+* [HowManyOfMe](http://howmanyofme.com/search/) - How many people have your name.
+* [HIRETUAL](https://chrome.google.com/webstore/detail/hiretual-10x-faster-talen/jeablngoapekimaeoeclgcefdcpjhjcg?hl=en) - Recruit the strongest talent with boolean building, contact finding, and AI Sourcing.
+* [Intelius (US)](https://www.intelius.com/) - Access information instantly.
+* [Itools](http://itools.com/search/people-search) - Use the best people search tools to find someone's contact information. Find a person's street address, phone number or email address.
+* [John Doe (US)](https://johndoe.com/) - Free person, phone number and address finder.
+* [Keybase](https://keybase.io/) - Secure groups, files, and chat for everyone.
+* [LittleSis](https://littlesis.org/) - LittleSis is a free database of who-knows-who at the heights of business and government.
+* [LookUpUK ](http://www.lookupuk.com/main.html) - The ORIGINAL Resource Centre for finding that Lost Friend or Relative in the UK.
+* [ManyContacts Mail Check](https://www.manycontacts.com/en/mail-check) - Provide email addresses and we discover all related social network profiles: linkedin, twitter, facebook, angelList... you also get the names, jobs, address, phone number and more.
+* [MarketVisual](http://www.marketvisual.com/) - Search Professionals by Name, Company or Title.
+* [NameScan](https://namescan.io/) - Use our platform to perform enhanced customer due diligence and efficiently onboard your clients in real time.
+* [Neighbor Report](https://neighbor.report/) - The best place to say thanks to neighbors or complain about their inappropriate activity.
+* [Nextdoor](https://nextdoor.de/) - Discover your neighborhood.
+* [peekyou ](https://www.peekyou.com/) - Find friends, relatives and colleagues across the Web.
+* [People Looker (US)](https://www.peoplelooker.com/) - Find information you may not get on Google.
+* [People Search](http://netbootcamp.org/peoplesearch.html) - Email, Screen Name, Address, Phone.
+* [People Search (Australia)](https://www.peoplesearch.com.au/) - Whether you're looking to find an old friend from school, military buddy, lost love, or anyone else, People Search has you covered.
+* [PeopleSmart (US)](https://www.peoplesmart.com/) - Find old friends. Reach new ones. Expand your network.
+* [PimEye](https://pimeyes.com/en/) - Upload photos from one person.
+* [pipl](https://pipl.com/) - Speed investigations and fight fraud with the world’s leading provider of true identity verification information.
+* [Profilr](https://www.profilr.social/) - Profilr.social shows every social media profile who you are looking for.
+* [Recruit’em](https://recruitin.net/) - Easily use Google to search profiles on LinkedIn.
+* [Reverse Genie](http://www.reversegenie.com/) - ReverseGenie.com is the ultimate reverse search tool allowing you to instantly search billions of phone numbers, email addresses, ip addresses and more.
+* [Skipease (US)](https://www.skipease.com/) - Search for people, criminal records and social network profiles by name and state.
+* [Smugmug](https://www.smugmug.com/search) - Search for photos, videos, people and galleries.
+* [Snitch.name](http://www.snitch.name/) - Search for People's Profiles on Social Sites.
+* [Snoop Station (US)](http://snoopstation.com/) - Don't Snoop. Just Search.
+* [Spokeo](https://www.spokeo.com/) - Search by name, phone, address or email to confidentially lookup information about people you know.
+* [Spytox (US)](https://www.spytox.com/) - Spytox is world's most trusted white pages directory.
+* [Strava](https://www.strava.com/heatmap#7.00/-120.90000/38.36000/hot/all) - Shows, how hot the world is.
+* [ufind.me](https://ufind.name/) - Try looking up a relative, friend, neighbor, your favorite celebrity, or you.
+* [UserSearch](https://usersearch.org/) - Find the person behind a username, email address or phone number.
+* [USSEARCH (US) ](https://www.ussearch.com/) - Search for People, Phone Numbers & Run Background Checks.
+* [WebMii](https://webmii.com/) - People search engine.
+* [Yasni](http://www.yasni.com/) - People search.
+* [Zoominfo](https://www.zoominfo.com/) - Find and connect with your ideal customer.
