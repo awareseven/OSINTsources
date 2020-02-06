@@ -18,6 +18,7 @@ This is a repo containing several osint sources.
 * [Social Media Tools: Skype](#social-media-tools-skype)
 * [Dating Apps](#dating-apps)
 * [Forums and Discussion Boards Search](#forums-and-discussion-boards-search)
+* [Main People Search Tools and Engines](#main-people-search-tools-and-engines)
 
 ## General Search
 
@@ -456,3 +457,16 @@ This is a repo containing several osint sources.
 * [Dating Apps and Sites for Investigators by Emmanuelle Welch](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators) - Dating apps and hook up sites for investigators.
 
 # Forums and Discussion Boards Search
+
+* [BoardReader](http://boardreader.com/) - Boardreader is a free tool for monitoring internet forums.
+* [Delphi Forums](http://www.delphiforums.com) - Delphi Forums is host to thousands of free forums and live chat rooms in the world.
+* [Facebook Groups](https://www.facebook.com/) - Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.
+* [Google Groups](https://groups.google.com/forum/#!overview) - Google Groups allows you to create and participate in online forums and email-based groups with a rich experience for community conversations.
+* [Linkedin Groups](https://www.linkedin.com/) - LinkedIn Groups are virtual meeting rooms (or forums) where people with similar interests can post and hold conversations around topics they want to share or learn more about.
+* [Ning](https://www.ning.com/de/) - Create great social networks with customized community management and social media integration.
+* [Xing Groups](https://www.xing.com/communities/pages/1) - Exchange ideas, opinions and interesting facts.
+* [Webhose.io](https://webhose.io/) - We turn unstructured web content into machine-readable data feeds you can consume on demand.
+* [Yahoo Groups](https://groups.yahoo.com/neo) - An extension to your real life group of friends, interests and communities.
+
+# Main People Search Tools and Engines
+
