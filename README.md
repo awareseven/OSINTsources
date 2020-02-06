@@ -11,6 +11,7 @@ This is a repo containing several osint sources.
 * [Social Media Tools: Twitter](#social-media-tools-twitter)
 * [Social Media Tools: Facebook](#social-media-tools-facebook)
 * [Social Media Tools: Instagram](#social-media-tools-instagram)
+* [Social Media Tools: Reddit](#social-media-tools-reddit)
 
 ## General Search
 
@@ -354,4 +355,34 @@ This is a repo containing several osint sources.
 * [Zesty Facebook Search](http://zesty.ca/facebook/) - What does Facebook publish about you and your friends.
 
 # Social Media Tools: Instagram
+
+* [Blocked and Banned Instagram Hashtag Search](http://thedatapack.com/tools/blocked-hashtag-search) - The banned hashtag search tool uses other sources like Twitter to search for photos that have been publicly posted to Instagram with any of the banned hashtags.
+* [Commun.it](https://commun.it/) - Commun.it is quick and easy. Manage your followers; thank your followers and most importantly grow your followers.
+* [Custom Instagram Search Tool](https://inteltechniques.com/osint/instagram.html) - Wrapper page to instagram search.
+* [DownloadGram](https://downloadgram.com/) - Instagram Photo, Video, and IGTV Downloader.
+* [Find Instagram User ID](https://codeofaninja.com/tools/find-instagram-user-id) - This tool called "Find Instagram User ID" provides an easy way for developers and designers to get Instagram account numeric ID by username.
+* [gramrix](https://gramrix.com/) - Instagram Free Web viewer.
+* [Hashtagify](https://hashtagify.me/hashtag/tbt) - Trending hashtags search.
+* [Helper Tools for Instagram](https://chrome.google.com/webstore/detail/helper-tools-for-instagra/hcdbfckhdcpepllecbkaaojfgipnpbpb) - Create list of followers/following of an Instagram account, find common users of 2 IG accounts, calculate likes/comments on profile.
+* [Iconosquare](https://iconosquare.com/) - Grow your social media presence with Iconosquare, the most powerful analytics, management & scheduling platform for brands and agencies.
+* [Instagram User ID Finder](https://www.otzberg.net/iguserid/index.php) - Find your Instagram User ID.
+* [Instagram Search Tool](http://netbootcamp.org/instagram.html) - Find Instagram Profiles with Keywords.
+* [Instagram User ID](http://ershad7.com/InstagramUserID/) - Explore Instagram Accounts.
+* [InstaLooter](https://github.com/althonos/InstaLooter) - API-less Instagram pictures and videos downloader.
+* [Keyhole](https://keyhole.co/) - Keyhole is a Hashtag Analytics and Social Media Analytics company who provides real-time data with hashtag tracking for Twitter, Instagram and Facebook.
+* [mulpix](https://mulpix.com/) - Instagram Search - Discover photos and videos.
+* [Mundimago Search People](http://www.mundimago.com/profile/search) - Use this search to find someone and discover Instagram photos, Foursqare venues, and more.
+* [Picbear](https://www.picbear.org/) -  Picbear is an Instagram Online Viewer that you can easily browse users, location, stories, followers, hashtags, popular contents, statistics and much more.
+* [Picodash](https://www.picodash.com/) - Find Instagram Target Audience and Influencers.
+* [Pictame](https://pictame.com) - Piwox is an online instagram tool where you can analyze your accounts instantly.
+* [SnapMap](https://snapmap.knightlab.com) - Make a map of your snaps.
+* [Social Rank](https://socialrank.com/) - The easiest way to identify, organize, and manage your audience on Social Media.
+* [Someture](https://someture.com) - Search Accounts and Hashtags from Instagram.
+* [tailwind](https://www.tailwindapp.com/) - Tailwind is the social media scheduling tool that gets real results in less time.
+* [Tofo.me](https://tofo.me/) - The best Instagram Web Viewer.
+* [Webstagram](https://webstagram.org/) - Instagram Search People and Instagram Web Viewer.
+* [Worldcam](http://worldc.am/) The best way to find the latest Instagram photos from around the world, or around the corner.
+* [Yooying](https://www.yooying.com/) - Picks the most popular hashtag and interesting users.
+
+# Social Media Tools: Reddit
 
