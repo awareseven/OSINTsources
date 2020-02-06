@@ -15,6 +15,7 @@ This is a repo containing several osint sources.
 * [Social Media Tools: VKontakte](#social-media-tools-vkontakte)
 * [Social Media Tools: LinkedIn](#social-media-tools-linkedin)
 * [Social Media Tools: WhatsApp](#social-media-tools-whatsapp)
+* [Social Media Tools: Skype](#social-media-tools-skype)
 
 ## General Search
 
@@ -439,4 +440,9 @@ This is a repo containing several osint sources.
 
 # Social Media Tools: WhatsApp
 
+* [WhatsAllApp ](https://github.com/LoranKloeze/WhatsAllApp) - Chrome Extension that creates a UI overlay for WhatsApp Web to enumerate phone numbers, profile pics and about texts.
+* [WhatsApp Fake Chat](http://www.fakewhats.com/generator] - Create a fake chat.
+* [whatsfoto](https://github.com/zoutepopcorn/whatsfoto) - Simple tool to download multiple profile pictures from whatsapp.
+
+# Social Media Tools: Skype
 
