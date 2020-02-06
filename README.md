@@ -17,6 +17,7 @@ This is a repo containing several osint sources.
 * [Social Media Tools: WhatsApp](#social-media-tools-whatsapp)
 * [Social Media Tools: Skype](#social-media-tools-skype)
 * [Dating Apps](#dating-apps)
+* [Forums and Discussion Boards Search](#forums-and-discussion-boards-search)
 
 ## General Search
 
@@ -453,3 +454,5 @@ This is a repo containing several osint sources.
 # Dating Apps
 
 * [Dating Apps and Sites for Investigators by Emmanuelle Welch](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators) - Dating apps and hook up sites for investigators.
+
+# Forums and Discussion Boards Search
