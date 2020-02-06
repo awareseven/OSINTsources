@@ -16,6 +16,7 @@ This is a repo containing several osint sources.
 * [Social Media Tools: LinkedIn](#social-media-tools-linkedin)
 * [Social Media Tools: WhatsApp](#social-media-tools-whatsapp)
 * [Social Media Tools: Skype](#social-media-tools-skype)
+* [Dating Apps](#dating-apps)
 
 ## General Search
 
@@ -441,8 +442,12 @@ This is a repo containing several osint sources.
 # Social Media Tools: WhatsApp
 
 * [WhatsAllApp ](https://github.com/LoranKloeze/WhatsAllApp) - Chrome Extension that creates a UI overlay for WhatsApp Web to enumerate phone numbers, profile pics and about texts.
-* [WhatsApp Fake Chat](http://www.fakewhats.com/generator] - Create a fake chat.
+* [WhatsApp Fake Chat](http://www.fakewhats.com/generator) - Create a fake chat.
 * [whatsfoto](https://github.com/zoutepopcorn/whatsfoto) - Simple tool to download multiple profile pictures from whatsapp.
 
 # Social Media Tools: Skype
 
+* [CyberHub Resolver](https://cyber-hub.pw/) - A resolver is a tool that permit you to get an user IP in realtime or from a database with stored results.
+* [Web Resolver](https://webresolver.nl/) - Shows hidden skype informations.
+
+# Dating Apps
