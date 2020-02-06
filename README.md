@@ -408,3 +408,18 @@ This is a repo containing several osint sources.
 
 # Social Media Tools: VKontakte
 
+* [Дезертир](https://vk.com/app3046467) - Shows who left your group and joined your group.
+* [Barkov.net](https://vk.barkov.net/) - Eine universelle Sammlung von Tools zur Suche der Zielgruppe VKontakte.
+* [Find Face](https://findface.pro/) - FindFace face recognition.
+* [Report Tree](http://dcpu.ru/vk_repost_tree.php) - Transfer tree.
+* [Social Stats](https://vk.com/socialstats) - SocialStats.ru ist ein universelles kostenloses Tool zum Analysieren von Communities und persönlichen VK-Seiten.
+* [SnRadar](http://snradar.azurewebsites.net/) - Enter the point on the map, the desired radius and the time interval.
+* [Target Hunter](https://targethunter.ru/) - Target group search service on social networks.
+* [Target Log](https://targetolog.com/) - Free service to find the target.
+* [VK5](http://vk5.city4me.com/) - Find likes and see hidden friends.
+* [VK Community Search](https://vk.com/communities) - Search for Communities.
+* [VK Parser](http://vkparser.ru/) - Parser of people and posts on VKontakte. Simple and convenient software for those who deserve VKontakte.
+* [VK People Search](https://vk.com/people] - Search for people.
+* [VK to RSS Appspot](http://vk-to-rss.appspot.com/) - Search for people or communities.
+* [vMetaDate](https://gist.github.com/cryptolok/8a023875b47e20bc5e64ba8e27294261) - Small tool to retreive vk.com users hidden metadata (state, access, dates, counts, etc) anonymously.
+
