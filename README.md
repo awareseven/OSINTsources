@@ -12,7 +12,7 @@ This is a repo containing several osint sources.
 * [Social Media Tools: Facebook](#social-media-tools-facebook)
 * [Social Media Tools: Instagram](#social-media-tools-instagram)
 * [Social Media Tools: Reddit](#social-media-tools-reddit)
-* [Social Media Tools: VKontakte](#social-media-search-vkontakte)
+* [Social Media Tools: VKontakte](#social-media-tools-vkontakte)
 
 ## General Search
 
