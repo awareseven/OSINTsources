@@ -13,6 +13,7 @@ This is a repo containing several osint sources.
 * [Social Media Tools: Instagram](#social-media-tools-instagram)
 * [Social Media Tools: Reddit](#social-media-tools-reddit)
 * [Social Media Tools: VKontakte](#social-media-tools-vkontakte)
+* [Social Media Tools: LinkedIn](#social-media-tools-linkedin)
 
 ## General Search
 
@@ -423,3 +424,4 @@ This is a repo containing several osint sources.
 * [VK to RSS Appspot](http://vk-to-rss.appspot.com/) - Search for people or communities.
 * [vMetaDate](https://gist.github.com/cryptolok/8a023875b47e20bc5e64ba8e27294261) - Small tool to retreive vk.com users hidden metadata (state, access, dates, counts, etc) anonymously.
 
+# Social Media Tools: LinkedIn
