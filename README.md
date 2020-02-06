@@ -10,6 +10,7 @@ This is a repo containing several osint sources.
 * [Real-Time Search, Social Media Search, and General Social Media Tools](#real-time-search-social-media-search-and-general-social-media-tools)
 * [Social Media Tools: Twitter](#social-media-tools-twitter)
 * [Social Media Tools: Facebook](#social-media-tools-facebook)
+* [Social Media Tools: Instagram](#social-media-tools-instagram)
 
 ## General Search
 
@@ -333,4 +334,24 @@ This is a repo containing several osint sources.
 * [Facebook Video Downloader](https://fbdown.net/) - Facebook Video Downloader.
 * [Fanpage Karma](https://www.fanpagekarma.com/) - Monitor any Facebook page with the best analytics and monitoring tool. Create insight reports and optimize your social media marketing strategy.
 * [FB DOWN](https://fbdown.net/) - Facebook Video Downloader.
-* [FB Scan Tool](https://pitoolbox.com.au/facebook-tool/) - This Scan Tool locates all open source information usually hidden by Facebook. Our Tool makes it easy for you to build a complete picture of an individual’s Facebook account and uncover information which may assist you in your research.
+* [FB Scan Tool](https://pitoolbox.com.au/facebook-tool/) - This Scan Tool locates all open source information usually hidden by Facebook.
+* [FB-sleep-stats](https://github.com/sqren/fb-sleep-stats) - Use Facebook to track your friends’ sleeping habits.
+* [Find my Facebook ID](https://findmyfbid.com/) - Find Facebook internal ID from profile URL.
+* [Graph Tips](https://graph.tips/) - Advanced Facebook Search tool.
+* [Lookup-ID.com](https://lookup-id.com/) - Find facebook internal ID from profile/page URL.
+* [peoplefindThor](http://peoplefindthor.dk/) - The easy way to find people on Facebook.
+* [SaveVideo](http://savevideo.me/?lang=en) - Download and save videos from Dailymotion, Facebook, Vimeo, Twitter and more.
+* [SearchIsBack](https://searchisback.com/) - Find people on Facebook.
+* [Signal](https://signal.fb.com) - Facebook makes it easy to show your work to the world.
+* [Social Fixer for Facebook](https://chrome.google.com/webstore/detail/social-fixer-for-facebook/ifmhoabcaeehkljcfclfiieohkohdgbb?hl=en) - Social Fixer for Facebook lets you filter your news feed, hide things you don't want to see, and customize your FB experience.
+* [Socmint Tools](http://socmint.tools/) - Find the Facebook ID from any person and enter it into the Graph Search Tool to search for information.
+* [StalkFace](https://stalkface.com/en/) - This tool shows hidden content from your Facebook profile.
+* [stalkscan](https://stalkscan.com/) - All 'public' info Facebook doesn't let you see.
+* [Wallflux](https://wallflux.com/) - Provides rss feeds for recent posts in Facebook groups and pages.
+* [Who posted what?](https://whopostedwhat.com/) - See what's somebody post.
+* [Wolfram Alpha Facebook Report](https://www.wolframalpha.com/input/?i=facebook+report) - Facebook profile analytics powered by Wolfram Alpha.
+* [YouTube Comment Scraper](http://ytcomments.klostermann.ca/) - Download (scrape) all comments from a given YouTube video.
+* [Zesty Facebook Search](http://zesty.ca/facebook/) - What does Facebook publish about you and your friends.
+
+# Social Media Tools: Instagram
+
