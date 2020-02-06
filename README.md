@@ -12,6 +12,7 @@ This is a repo containing several osint sources.
 * [Social Media Tools: Facebook](#social-media-tools-facebook)
 * [Social Media Tools: Instagram](#social-media-tools-instagram)
 * [Social Media Tools: Reddit](#social-media-tools-reddit)
+* [Social Media Tools: VKontakte](#social-media-search-vkontakte)
 
 ## General Search
 
@@ -404,4 +405,6 @@ This is a repo containing several osint sources.
 * [TopIAmA](https://www.topiama.com) - The best Reddit IAmA's in a readable format.
 * [uforio](http://uforio.com/) -Alternative Reddit Client.
 * [Un-Delete Reddit Comments](https://chrome.google.com/webstore/detail/un-delete-reddit-comments/goelkfmlebeihlnanaindammeonplnhi?hl=en) - Save a cached copy of the current reddit page you're viewing to preserve comments in case they're deleted.
+
+# Social Media Tools: VKontakte
 
