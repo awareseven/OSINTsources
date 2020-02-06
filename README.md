@@ -14,6 +14,7 @@ This is a repo containing several osint sources.
 * [Social Media Tools: Reddit](#social-media-tools-reddit)
 * [Social Media Tools: VKontakte](#social-media-tools-vkontakte)
 * [Social Media Tools: LinkedIn](#social-media-tools-linkedin)
+* [Social Media Tools: WhatsApp](#social-media-tools-whatsapp)
 
 ## General Search
 
@@ -425,3 +426,17 @@ This is a repo containing several osint sources.
 * [vMetaDate](https://gist.github.com/cryptolok/8a023875b47e20bc5e64ba8e27294261) - Small tool to retreive vk.com users hidden metadata (state, access, dates, counts, etc) anonymously.
 
 # Social Media Tools: LinkedIn
+
+* [Custom LinkedIn Search by Country](https://inteltechniques.com/osint/linkedin.country.html) - You can specify a location for your job search by entering a location.
+* [Dux-Soup ](https://www.dux-soup.com/) - The smarter way to generate new business using LinkedIn.
+* [Find Anyone’s Email](https://chrome.google.com/webstore/detail/find-anyones-email-contac/jjdemeiffadmmjhkbbpglgnlgeafomjo?hl=en) - The best & most accurate email finding tool.
+* [FTL](https://chrome.google.com/webstore/detail/findthatlead/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB) - Find any email you need on LinkedIn, Twitter and web domains.
+* [Linkedin2username](https://github.com/initstring/linkedin2username) - Generate username lists for companies on LinkedIn.
+* [LinkedIn Guest Browser](https://addons.mozilla.org/en-US/firefox/addon/linkedin-guest-browser/) - This add-on allows you to browse LinkedIn profiles without having to login to LinkedIn.
+* [raven](https://github.com/0x09AL/raven) - Raven is a Linkedin information gathering tool that can be used by pentesters to gather information about an organization employees using Linkedin.
+* [ScrapedIn](https://github.com/dchrastil/ScrapedIn) - A tool to scrape LinkedIn without API restrictions for data reconnaissance.
+* [the-endorser](https://github.com/eth0izzle/the-endorser) - An OSINT tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
+
+# Social Media Tools: WhatsApp
+
+
