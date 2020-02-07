@@ -19,7 +19,7 @@ This is a repo containing several osint sources.
 * [Dating Apps](#dating-apps)
 * [Forums and Discussion Boards Search](#forums-and-discussion-boards-search)
 * [Main People Search Tools and Engines](#main-people-search-tools-and-engines)
-* [Address And Contact Information Search](#address-and-contact-information-search)
+* [Address and Contact Information Search](#address-and-contact-information-search)
 
 ## General Search
 
@@ -522,7 +522,7 @@ This is a repo containing several osint sources.
 * [Yasni](http://www.yasni.com/) - People search.
 * [Zoominfo](https://www.zoominfo.com/) - Find and connect with your ideal customer.
 
-# Address & Contact Information Search
+# Address and Contact Information Search
 
 * [118172](https://www.118712.fr/) - Find a professional, a private individual or a trip all over France.
 * [192 (UK)](https://www.192.com/) - 192.com tells you more about people, businesses & places in the UK than any other directory.
