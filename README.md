@@ -23,6 +23,7 @@ This is a repo containing several osint sources.
 * [Public Records](#public-records)
 * [E-mail Search/E-mail Check](#e-mail-searche-mail-check)
 * [Username Check](#username-check)
+* [Main Company Search Tools and Engines](#main-company-search-tools-and-engines)
 
 ## General Search
 
@@ -678,3 +679,6 @@ This is a repo containing several osint sources.
 * [User Search](https://www.usersearch.org/) - Find the person behind a username, email address or phone number.
 * [Vigilante](https://www.vigilante.pw/) - View the breached database directory.
 * [WhatsMyName](https://github.com/WebBreacher/WhatsMyName) - This repository has the unified data required to perform user enumeration on various websites.
+
+## Main Company Search Tools and Engines
+
