@@ -659,3 +659,22 @@ This is a repo containing several osint sources.
 * [VoilaNorbert](https://www.voilanorbert.com/) - Hello. My name is Norbert. I can find anyone's email address.
 
 ## Username Check
+
+* [Username Check](http://www.checkusernames.com/) - Check the use of your brand or username on 160 Social Networks.
+* [Custom User Name Search](https://inteltechniques.com/osint/username.html) - Find out if an user name is already used or not.
+* [Gaddr](https://www.gaddr.com/me) - One Universal Identity.
+* [Knowem](https://knowem.com/) - Search over 500 popular social networks, over 150 domain names, and the entire USPTO Trademark Database to instantly secure your brand on the internet.
+* [Leaked Source](https://leakedsource.ru/) - Check for free to see if your email or account was hacked.
+* [Lullar](http://com.lullar.com/) - Profile Search by Email, First/Last Name or Username.
+* [Name Checkr](https://www.namecheckr.com/) - Check domain & social username availability across multiple networks.
+* [Name Chk](https://www.namechk.com/) - Find an avaible username or avaible domains.
+* [Namech_k.sh](https://github.com/HA71/Namechk) - Osint tool based on namechk.com for checking usernames on more than 100 websites, forums and social networks.
+* [Name Vine](https://namevine.com/) - Instantly Find A Domain Name With Matching Social Media Profiles.
+* [peekyou](https://www.peekyou.com/) - Find friends, relatives and colleagues across the Web.
+* [pipl](https://pipl.com/) - Turn a single data point into a trusted identity.
+* [Snitch.name](http://www.snitch.name/) - Search for People's Profiles on Social Sites.
+* [Snusbase](https://snusbase.com/) - The longest standing data breach search engine.
+* [Spokeo](https://www.spokeo.com/) - Search by name, phone, address or email to confidentially lookup information about people you know.
+* [User Search](https://www.usersearch.org/) - Find the person behind a username, email address or phone number.
+* [Vigilante](https://www.vigilante.pw/) - View the breached database directory.
+* [WhatsMyName](https://github.com/WebBreacher/WhatsMyName) - This repository has the unified data required to perform user enumeration on various websites.
