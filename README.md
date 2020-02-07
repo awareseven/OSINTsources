@@ -21,7 +21,7 @@ This is a repo containing several osint sources.
 * [Main People Search Tools and Engines](#main-people-search-tools-and-engines)
 * [Address and Contact Information Search](#address-and-contact-information-search)
 * [Public Records](#public-records)
-* [E-mail Search / E-mail Check](#e-mail-search-e-mail-check]
+* [E-mail Search / E-mail Check](#e-mail-search-e-mail-check)
 
 ## General Search
 
