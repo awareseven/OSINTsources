@@ -22,6 +22,7 @@ This is a repo containing several osint sources.
 * [Address and Contact Information Search](#address-and-contact-information-search)
 * [Public Records](#public-records)
 * [E-mail Search/E-mail Check](#e-mail-searche-mail-check)
+* [Username Check](#username-check)
 
 ## General Search
 
@@ -213,7 +214,7 @@ This is a repo containing several osint sources.
 * [Webometric](http://lexiurl.wlv.ac.uk/) - Webometry is a field of research that uses measurements to examine the World Wide Web.
 * [Zoho Social](https://www.zoho.com/social/social-media-monitoring.html) - Schedule unlimited posts with Zoho Social, monitor what's important, and create custom reports to analyze your performance on social networks.
 
-# Social Media Tools: Twitter
+## Social Media Tools: Twitter
 
 * [AccountAnalysis](https://accountanalysis.app/) - This tool enables you to evaluate Twitter accounts. For example how automated they are, how many Retweets they post, or which websites they link to most often.
 * [AllDeletedTweets From Politicians](https://politwoops.com/countries) - Select a country from which you want to see the deleted tweets from politicians.
@@ -327,7 +328,7 @@ This is a repo containing several osint sources.
 * [Video Downloader for Twitter](https://www.downloadtwittervideo.com/) - Download Twitter Videos.
 * [Warble](https://warble.co/) - Track keywords, phrases, #hashtags, @mentions and more.
 
-# Social Media Tools: Facebook
+## Social Media Tools: Facebook
 
 * [Agora Pulse](https://barometer.agorapulse.com/home) - Find out how your page performances are compared to the average performances of the 53,285 pages added to the Barometer.
 * [Bulk Facebook ID Finder](https://seotoolstation.com/bulk-facebook-id-finder) - This tool helps you to find the Facebook IDs for any group and profile.
@@ -364,7 +365,7 @@ This is a repo containing several osint sources.
 * [YouTube Comment Scraper](http://ytcomments.klostermann.ca/) - Download (scrape) all comments from a given YouTube video.
 * [Zesty Facebook Search](http://zesty.ca/facebook/) - What does Facebook publish about you and your friends.
 
-# Social Media Tools: Instagram
+## Social Media Tools: Instagram
 
 * [Blocked and Banned Instagram Hashtag Search](http://thedatapack.com/tools/blocked-hashtag-search) - The banned hashtag search tool uses other sources like Twitter to search for photos that have been publicly posted to Instagram with any of the banned hashtags.
 * [Commun.it](https://commun.it/) - Commun.it is quick and easy. Manage your followers; thank your followers and most importantly grow your followers.
@@ -394,7 +395,7 @@ This is a repo containing several osint sources.
 * [Worldcam](http://worldc.am/) The best way to find the latest Instagram photos from around the world, or around the corner.
 * [Yooying](https://www.yooying.com/) - Picks the most popular hashtag and interesting users.
 
-# Social Media Tools: Reddit
+## Social Media Tools: Reddit
 
 * [Imgur](https://imgur.com/) - Images, #tags, @users and more.
 * [Karma Decay](http://karmadecay.com/) - Reverse image search of Reddit.com
@@ -415,7 +416,7 @@ This is a repo containing several osint sources.
 * [uforio](http://uforio.com/) -Alternative Reddit Client.
 * [Un-Delete Reddit Comments](https://chrome.google.com/webstore/detail/un-delete-reddit-comments/goelkfmlebeihlnanaindammeonplnhi?hl=en) - Save a cached copy of the current reddit page you're viewing to preserve comments in case they're deleted.
 
-# Social Media Tools: VKontakte
+## Social Media Tools: VKontakte
 
 * [Дезертир](https://vk.com/app3046467) - Shows who left your group and joined your group.
 * [Barkov.net](https://vk.barkov.net/) - Eine universelle Sammlung von Tools zur Suche der Zielgruppe VKontakte.
@@ -432,7 +433,7 @@ This is a repo containing several osint sources.
 * [VK to RSS Appspot](http://vk-to-rss.appspot.com/) - Search for people or communities.
 * [vMetaDate](https://gist.github.com/cryptolok/8a023875b47e20bc5e64ba8e27294261) - Small tool to retreive vk.com users hidden metadata (state, access, dates, counts, etc) anonymously.
 
-# Social Media Tools: LinkedIn
+## Social Media Tools: LinkedIn
 
 * [Custom LinkedIn Search by Country](https://inteltechniques.com/osint/linkedin.country.html) - You can specify a location for your job search by entering a location.
 * [Dux-Soup ](https://www.dux-soup.com/) - The smarter way to generate new business using LinkedIn.
@@ -444,22 +445,22 @@ This is a repo containing several osint sources.
 * [ScrapedIn](https://github.com/dchrastil/ScrapedIn) - A tool to scrape LinkedIn without API restrictions for data reconnaissance.
 * [the-endorser](https://github.com/eth0izzle/the-endorser) - An OSINT tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
 
-# Social Media Tools: WhatsApp
+## Social Media Tools: WhatsApp
 
 * [WhatsAllApp ](https://github.com/LoranKloeze/WhatsAllApp) - Chrome Extension that creates a UI overlay for WhatsApp Web to enumerate phone numbers, profile pics and about texts.
 * [WhatsApp Fake Chat](http://www.fakewhats.com/generator) - Create a fake chat.
 * [whatsfoto](https://github.com/zoutepopcorn/whatsfoto) - Simple tool to download multiple profile pictures from whatsapp.
 
-# Social Media Tools: Skype
+## Social Media Tools: Skype
 
 * [CyberHub Resolver](https://cyber-hub.pw/) - A resolver is a tool that permit you to get an user IP in realtime or from a database with stored results.
 * [Web Resolver](https://webresolver.nl/) - Shows hidden skype informations.
 
-# Dating Apps
+## Dating Apps
 
 * [Dating Apps and Sites for Investigators by Emmanuelle Welch](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators) - Dating apps and hook up sites for investigators.
 
-# Forums and Discussion Boards Search
+## Forums and Discussion Boards Search
 
 * [BoardReader](http://boardreader.com/) - Boardreader is a free tool for monitoring internet forums.
 * [Delphi Forums](http://www.delphiforums.com) - Delphi Forums is host to thousands of free forums and live chat rooms in the world.
@@ -471,7 +472,7 @@ This is a repo containing several osint sources.
 * [Webhose.io](https://webhose.io/) - We turn unstructured web content into machine-readable data feeds you can consume on demand.
 * [Yahoo Groups](https://groups.yahoo.com/neo) - An extension to your real life group of friends, interests and communities.
 
-# Main People Search Tools and Engines
+## Main People Search Tools and Engines
 
 * [411 (US)](https://www.411.com/) - Find Contact Information on yourself or anyone else.
 * [Addresses (US)](https://www.addresses.com/) - Search Addresses, Phone Numbers, Businesses & People.
@@ -524,7 +525,7 @@ This is a repo containing several osint sources.
 * [Yasni](http://www.yasni.com/) - People search.
 * [Zoominfo](https://www.zoominfo.com/) - Find and connect with your ideal customer.
 
-# Address and Contact Information Search
+## Address and Contact Information Search
 
 * [118172](https://www.118712.fr/) - Find a professional, a private individual or a trip all over France.
 * [192 (UK)](https://www.192.com/) - 192.com tells you more about people, businesses & places in the UK than any other directory.
@@ -550,7 +551,7 @@ This is a repo containing several osint sources.
 * [whowhere](http://www.whowhere.com/) - Find a business near a city or state.
 * [Zabasearch](https://www.zabasearch.com/) - Free People Search and Public Information Search Engine.
 
-# Public Records
+## Public Records
 
 * [Australia Public Records](https://australiapublicrecord.com/) - Finding public records in Australia is dependent upon the region of Australia that you are searching.
 * [Black Book Online (US)](https://www.blackbookonline.info/) - Find free public records lookups.
@@ -591,7 +592,7 @@ This is a repo containing several osint sources.
 * [USSearch (US) ](https://www.ussearch.com/) - Search for People, Phone Numbers & Run Background Checks.
 * [Voter Registration Records (US)](https://voterrecords.com/) - Free political research tool to study more than 70 million voter records.
 
-# E-mail Search/E-mail Check
+## E-mail Search/E-mail Check
 
 * [411 (US)](https://www.411.com/) - Find Contact Information on yourself or anyone else.
 * [Ashley Madison Hack](https://ashley.cynic.al/) - Ashley Madison hacked email checker.
@@ -656,3 +657,5 @@ This is a repo containing several osint sources.
 * [Verify Email Account](https://es.infobyip.com/verifyemailaccount.php) - Check the existence of an email account without sending an email.
 * [Verify Email Address](https://tools.verifyemailaddress.io/) - Email address verification technology from Email Hippo that connects to mailboxes and checks whether an email address exists.
 * [VoilaNorbert](https://www.voilanorbert.com/) - Hello. My name is Norbert. I can find anyone's email address.
+
+## Username Check
