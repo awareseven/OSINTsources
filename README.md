@@ -19,6 +19,7 @@ This is a repo containing several osint sources.
 * [Dating Apps](#dating-apps)
 * [Forums and Discussion Boards Search](#forums-and-discussion-boards-search)
 * [Main People Search Tools and Engines](#main-people-search-tools-and-engines)
+* [Address & Contact Information Search](#address-contact-information-search)
 
 ## General Search
 
@@ -471,7 +472,7 @@ This is a repo containing several osint sources.
 # Main People Search Tools and Engines
 
 * [411 (US)](https://www.411.com/) - Find Contact Information on yourself or anyone else.
-* [Addresses (US)](https://www.addresses.com/) - Search Addresses, Phone Numbers, Business & People.
+* [Addresses (US)](https://www.addresses.com/) - Search Addresses, Phone Numbers, Businesses & People.
 * [Alumni.net](https://www.alumni.net/) - Alumni.NET is a social site that enables people to find jobs, promote company products, recruit employees, relive school days, view school news, and more.
 * [AnyWho (US)](https://www.anywho.com/whitepages) - Find People in Our People Search Directory.
 * [Classmates](https://www.classmates.com/) - Find high school friends, Plan your high school reunion and look at the old high school yearbooks.
@@ -520,3 +521,12 @@ This is a repo containing several osint sources.
 * [WebMii](https://webmii.com/) - People search engine.
 * [Yasni](http://www.yasni.com/) - People search.
 * [Zoominfo](https://www.zoominfo.com/) - Find and connect with your ideal customer.
+
+# Address & Contact Information Search
+
+* [118172](https://www.118712.fr/) - Find a professional, a private individual or a trip all over France.
+* [192 (UK)](https://www.192.com/) - 192.com tells you more about people, businesses & places in the UK than any other directory.
+* [411 (US)](https://www.411.com/) - Find Contact Information on yourself or anyone else.
+* [Addresses (US)](https://www.addresses.com/) - Search Addresses, Phone Numbers, Businesses & People.
+* [Address Search (US)](https://www.addresssearch.com/) - Free Access to Information on More Than 95 Million Email Addresses & 140 Million Mailing Addresses.
+
