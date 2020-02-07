@@ -688,7 +688,7 @@ This is a repo containing several osint sources.
 * [Annual Reports](http://www.annualreports.com/) - AnnualReports.com is the most complete and up-to-date listing of annual reports on the internet.
 * [Big Red Directory](https://www.bigreddirectory.com/) - Big Red Directory uses state of the art artificial intelligence to self update its own contents.
 * [bikudo](https://www.bikudo.com/) - Discover thousands of new products from manufacturers and suppliers.
-* [Bizeurope](Europe's leading business directory) - Bizeurope is the leading European business directory and online since 1999.
+* [Bizeurope](http://www.bizeurope.com/) - Bizeurope is the leading European business directory and online since 1999.
 * [Bizstats](https://www.bizstats.co.uk/) - Welcome to BizStats, your go to UK small business portal that delivers comprehensive and coherent information you seek.
 * [Bizstats](http://www.bizstats.com/) - Free business statistics and financial ratios.
 * [brandchecker](https://brandchecker.com/) - Check & claim your username on the most popular sites online.
