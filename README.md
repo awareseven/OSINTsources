@@ -591,7 +591,7 @@ This is a repo containing several osint sources.
 * [USSearch (US) ](https://www.ussearch.com/) - Search for People, Phone Numbers & Run Background Checks.
 * [Voter Registration Records (US)](https://voterrecords.com/) - Free political research tool to study more than 70 million voter records.
 
-## E-mail Search/E-mail Check
+# E-mail Search/E-mail Check
 
 * [411 (US)](https://www.411.com/) - Find Contact Information on yourself or anyone else.
 * [Ashley Madison Hack](https://ashley.cynic.al/) - Ashley Madison hacked email checker.
