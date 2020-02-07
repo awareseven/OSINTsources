@@ -558,8 +558,8 @@ This is a repo containing several osint sources.
 * [Crime Reports (US)](https://www.cityprotect.com/) - Search for Police Departments.
 * [Cubib (US)](https://www.xlek.com/) - Free public data search.
 * [DOBSEARCH](https://www.dobsearch.com/) - Find people fast.
-* [Family Watchdog (US)](https://www.familywatchdog.us/ - Family Watchdog is a free service to help locate registered sex offenders in your area.
-* [Federal Bureau of Prisons - Inmate Locator (US)](https://www.bop.gov/inmateloc/] - Find an inmate.
+* [Family Watchdog (US)](https://www.familywatchdog.us/) - Family Watchdog is a free service to help locate registered sex offenders in your area.
+* [Federal Bureau of Prisons - Inmate Locator (US)](https://www.bop.gov/inmateloc/) - Find an inmate.
 * [Find A Grave (US)](https://de.findagrave.com/) - The largest grave collection in the world.
 * [Find People Search (US)](https://www.findpeoplesearch.com/) - Enter the name of the person you are searching.
 * [Fold3 (US Military Records)](https://www.fold3.com/) - Discover your family's military past.
@@ -592,3 +592,7 @@ This is a repo containing several osint sources.
 * [Voter Registration Records (US)](https://voterrecords.com/) - Free political research tool to study more than 70 million voter records.
 
 # E-mail Search/E-mail Check
+
+* [411 (US)](https://www.411.com/) - Find Contact Information on yourself or anyone else.
+* [Ashley Madison Hack](https://ashley.cynic.al/) - Ashley Madison hacked email checker.
+* [BotScout](https://botscout.com/search.htm) - 
