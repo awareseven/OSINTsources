@@ -19,7 +19,7 @@ This is a repo containing several osint sources.
 * [Dating Apps](#dating-apps)
 * [Forums and Discussion Boards Search](#forums-and-discussion-boards-search)
 * [Main People Search Tools and Engines](#main-people-search-tools-and-engines)
-* [Address & Contact Information Search](#addressandcontact-information-search)
+* [Address And Contact Information Search](#address-and-contact-information-search)
 
 ## General Search
 
