@@ -21,6 +21,7 @@ This is a repo containing several osint sources.
 * [Main People Search Tools and Engines](#main-people-search-tools-and-engines)
 * [Address and Contact Information Search](#address-and-contact-information-search)
 * [Public Records](#public-records)
+* [E-mail Search / E-mail Check](#e-mail-search-e-mail-check]
 
 ## General Search
 
@@ -551,3 +552,43 @@ This is a repo containing several osint sources.
 
 # Public Records
 
+* [Australia Public Records](https://australiapublicrecord.com/) - Finding public records in Australia is dependent upon the region of Australia that you are searching.
+* [Black Book Online (US)](https://www.blackbookonline.info/) - Find free public records lookups.
+* [BRBPub.com](http://www.brbpub.com/) - Free Records Search and Public Records Directory.
+* [Crime Reports (US)](https://www.cityprotect.com/) - Search for Police Departments.
+* [Cubib (US)](https://www.xlek.com/) - Free public data search.
+* [DOBSEARCH](https://www.dobsearch.com/) - Find people fast.
+* [Family Watchdog (US)](https://www.familywatchdog.us/ - Family Watchdog is a free service to help locate registered sex offenders in your area.
+* [Federal Bureau of Prisons - Inmate Locator (US)](https://www.bop.gov/inmateloc/] - Find an inmate.
+* [Find A Grave (US)](https://de.findagrave.com/) - The largest grave collection in the world.
+* [Find People Search (US)](https://www.findpeoplesearch.com/) - Enter the name of the person you are searching.
+* [Fold3 (US Military Records)](https://www.fold3.com/) - Discover your family's military past.
+* [Free Public Records Directory (US)](https://publicrecords.onlinesearches.com/) - Find public record resources and free search tools.
+* [golookup (US) ](https://golookup.com/) - Contact Information, Police Records, Mugshots, Arrest Records, Images & More.
+* [GOVDATACA (Canada)](https://govdataca.com/) - Explore open government data in Canada.
+* [Grave Info (US)](http://www.graveinfo.com/) - Public Records Search.
+* [Inmate Locator (US)](http://www.theinmatelocator.com/) -  Locate Inmates, Prisoners, Offenders and Offender.
+* [Inmate Locator (US)](https://www.bop.gov/inmateloc/) - Find an inmate.
+* [Intelius (US)](https://www.intelius.com/) - Access information instantly.
+* [Interment (Cemetery Records)](http://www.interment.net/data/search.htm) - Cemetery Records Search.
+* [Instant Checkmate](https://www.instantcheckmate.com/) - Social Media, Photos, Police Records, Background Checks, Civil Judgments, Contact Information and Much More.
+* [Investigative Dashboard Search](https://aleph.occrp.org/) - The global archive of research material for investigative reporting.
+* [Legacy.com (US)](https://www.legacy.com/) - Where Life Stories Live On.
+* [Melissa (US)](https://www.melissa.com/) - Keep your customer records clean, current, & complete for better marketing, sales & customer service.
+* [NETR ONLINE (US)](https://publicrecords.netronline.com/) - Public Records Online Directory.
+* [NSOPW (US)](https://www.nsopw.gov/en/Search/Verification) - National sex offender public website.
+* [Orbituaries Australia](http://oa.anu.edu.au/) - Obituaries Australia is a digital repository of obituaries published in newspapers, journals, magazines and bulletins.
+* [Political MoneyLine (US)](http://www.politicalmoneyline.com/) - Political Money Line is counting the money and highlighting key transactions and rankings.
+* [Public Info Directory (US)](https://publicrecords.directory/) - Free public information search.
+* [Public Records (Australia)](https://www.publicrecords.com.au/) - Let's uncover the best records for the region you want.
+* [Radaris](https://radaris.com/) - Comprehensive information from local, state and federal sources.
+* [RecordsPedia](http://recordspedia.com/) - The most comprehensive public records resource on the web.
+* [Reunion (US)](http://www.reunion.com/) - Get Background & Criminal info on anyone.
+* [SCRA Website (US)](https://scra.dmdc.osd.mil/scra/#/home) - SCRA is a program that provides certain protections in lending for servicemembers who are called to Active Duty.
+* [Sorted by Birth Date](http://sortedbybirthdate.com/) - Search for the birthd date of random people.
+* [SSN Validator](https://www.ssnvalidator.com/) - This site contains real police records.
+* [UniCourt](https://unicourt.com/) - Easy Access to Court Records & Legal Analytics.
+* [USSearch (US) ](https://www.ussearch.com/) - Search for People, Phone Numbers & Run Background Checks.
+* [Voter Registration Records (US)](https://voterrecords.com/) - Free political research tool to study more than 70 million voter records.
+
+# E-mail Search / E-mail Check
