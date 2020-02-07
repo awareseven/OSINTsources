@@ -20,6 +20,7 @@ This is a repo containing several osint sources.
 * [Forums and Discussion Boards Search](#forums-and-discussion-boards-search)
 * [Main People Search Tools and Engines](#main-people-search-tools-and-engines)
 * [Address and Contact Information Search](#address-and-contact-information-search)
+* [Public Records](#public-records)
 
 ## General Search
 
@@ -529,4 +530,24 @@ This is a repo containing several osint sources.
 * [411 (US)](https://www.411.com/) - Find Contact Information on yourself or anyone else.
 * [Addresses (US)](https://www.addresses.com/) - Search Addresses, Phone Numbers, Businesses & People.
 * [Address Search (US)](https://www.addresssearch.com/) - Free Access to Information on More Than 95 Million Email Addresses & 140 Million Mailing Addresses.
+* [AnyWho (US)](https://www.anywho.com/yellow-pages) - Find Businesses By Name or Category.
+* [Australia Lookup](http://www.australialookup.com/) - The Ultimate Australian People Finder + Reverse Phone Lookup.
+* [BeenVerified (US)](https://www.beenverified.com/) - Search People & Public Records
+* [Canada411(Canada)](https://www.canada411.ca/) - Find a person or a business.
+* [Data 24-7](https://www.data247.com/) - Search Addresses, Phone Numbers, Business and People.
+* [Find People Search (US)](https://www.findpeoplesearch.com/) - Enter the name of the person you are searching.
+* [HomeMetry](https://homemetry.com/) - Comprehensive Home Data.
+* [Infobel](https://www.infobel.com/) - Search for a company or a person anywhere in the world.
+* [John Doe (US)](https://johndoe.com/) - Free person, phone number and address finder.
+* [PeopleSmart (US)](https://www.peoplesmart.com/) - Find old friends. Reach new ones. Expand your network.
+* [SearchBug (US)](https://www.searchbug.com/) - Search People, verify & append Names, property Address, Phone & Email.
+* [Spytox (US)](https://www.spytox.com/) - Spytox is world's most trusted white pages directory.
+* [That’sThem](https://thatsthem.com/) - Find People - How You Know Them.
+* [USSearch (US) ](https://www.ussearch.com/) - Search for People, Phone Numbers & Run Background Checks.
+* [Verispy (US)](https://www.verispy.com/people-search/) - Fast and easy people search.
+* [White Pages ](https://www.whitepages.com/) - Find people, contact info & background checks.
+* [whowhere](http://www.whowhere.com/) - Find a business near a city or state.
+* [Zabasearch](https://www.zabasearch.com/) - Free People Search and Public Information Search Engine.
+
+# Public Records
 
