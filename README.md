@@ -608,4 +608,51 @@ This is a repo containing several osint sources.
 * [EmailDrop](https://chrome.google.com/webstore/detail/emaildrop-extract-emails/peilgijmhiocdmdeglhiljipigamfbjh?hl=en) - Extract your E-mails.
 * [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en) - Discover and extract email ID's from any webpage.
 * [Email Extractor](http://emailx.discoveryvip.com/) - Extract your E-mails.
-* [Email Extractor Lite](http://eel.surf7.net.my/) - 
+* [Email Extractor Lite](http://eel.surf7.net.my/) - Extract email addresses from any text with this free utility.
+* [Email Format](https://www.email-format.com/) - Save time and energy - find the email address formats in use at thousands of companies.
+* [Email Guesser](http://www.guesser.email/) - This tool shows you possible email addresses based on your wishes.
+* [Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx) - This tool will make email headers human readable by parsing them according to RFC 822.
+* [EmailHippo](https://tools.verifyemailaddress.io/) - Email address verification technology from Email Hippo that connects to mailboxes and checks whether an email address exists.
+* [Email Hunter](https://hunter.io/) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
+* [emailmatcher ](https://emailmatcher.com/) - Find any email address.
+* [Email Permutator+](http://metricsparrow.com/toolkit/email-permutator/) - Email Permutator.
+* [EmailSearch.org ](http://www.email-search.org/search-emails/) - Search email addresses.
+* [Email Validator](https://www.email-validator.net/de/index.html) - Validate a email.
+* [FindThatLead](https://findthatlead.com/en/) - Get all the emails you want and send love with FindThatLead.
+* [Free Email Verifier](https://verify-email.org/) - This email verification tool actually connects to the mail server and checks whether the mailbox exists or not.
+* [Gawker Hack Email Check](https://duo.com/blog/brief-analysis-of-the-gawker-password-dump) - Brief Analysis of the Gawker Password Dump.
+* [Github-osint](https://github.com/vulnbe/github-osint) - This tool uses GitHub API to get email addresses from commit log of user/organisation repositories.
+* [Gravatar Email Check](http://en.gravatar.com/site/check) - Check your Gravatar by typing your email address into this form.
+* [Hacked Emails](https://hacked-emails.com/) - Have I Been Breached or Leaked.
+* [Have I Been Pwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach.
+* [Have I Been Sold ](https://haveibeensold.app/) - Quickly check if your email has been sold.
+* [headreach](https://www.leadfuze.com/) - Find fresh leads, instantly.
+* [HPI Identity Leak Checker](https://sec.hpi.uni-potsdam.de/ilc/search;jsessionid=A94B3A03C67B00F3B0FADB4A8C08E6FA) - Has your identity data been spied on.
+* [Hunter](https://hunter.io/) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
+* [Infoga](https://github.com/m4ll0k/infoga) - Infoga is a tool gathering email accounts informations from different public source and check if emails was leaked using haveibeenpwned.com.
+* [Leaked Source](https://leakedsource.ru/) - Check for free to see if your email or account was hacked.
+* [MailTester](https://mailtester.com/testmail.php) - Here you can enter an e-mail address to verify if it exists of if there are problems with it.
+* [ManyContacts Email Check](https://www.manycontacts.com/en/mail-check) - Provide email addresses and we discover all related social network profiles: linkedin, twitter, facebook, angelList... you also get the names, jobs, address, phone number and more.
+* [Melissa (US)](https://www.melissa.com/v2/lookups/emailcheck/email/) - Use the Global Email Check Tool to check email addresses and verify they are live.
+* [Peepmail](http://www.samy.pl/peepmail/) - Peepmail is a tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
+* [People Looker (US)](https://www.peoplelooker.com/) - Find information you may not get on Google. 
+* [PeopleSmart (US)](https://www.peoplesmart.com/) - Find old friends. Reach new ones. Expand your network.
+* [Pipl ](https://pipl.com/) - Turn a single data point into a trusted identity.
+* [Polities](https://www.politie.nl/themas/controleer-of-mijn-inloggegevens-zijn-gestolen.html) - Check if your credentials have been stolen.
+* [Prospect Linked](https://www.politie.nl/themas/controleer-of-mijn-inloggegevens-zijn-gestolen.html) - Find the prospects' emails you've been looking for.
+* [Read Notify](http://www.readnotify.com/) - ReadNotify lets you know when email you've sent gets read.
+* [Reverse Genie Email](http://www.reversegenie.com/email.php) - Search any email address.
+* [sellhack](https://sellhack.com/) - Find Leads. Build Lists. Send Cold Emails.
+* [Snusbase](https://snusbase.com/) - The longest standing data breach search engine.
+* [SPYDialer](https://www.spydialer.com/) - Free phone, people, email or address search.
+* [Spytox (US)](https://www.spytox.com/) - Spytox is world's most trusted white pages directory.
+* [TCIPUTILS.com Email Test](https://dnslytics.com/email-test) - Test an email address for successful delivery.
+* [That’sThem](https://thatsthem.com/) - Find People - How You Know Them.
+* [Toofr](https://www.findemails.com/) - Find Anyone’s Email Address in Seconds.
+* [USSearch (US) ](https://www.ussearch.com/) - Search for People, Phone Numbers & Run Background Checks.
+* [Validate Email Address](https://validateemailaddress.org/) - Your Free Email Address Validator.
+* [Verifalia](https://verifalia.com/validate-email) - Enter an email address below to check in real-time if it's real.
+* [Verify Email](https://verify-email.org/) - This email verification tool actually connects to the mail server and checks whether the mailbox exists or not.
+* [Verify Email Account](https://es.infobyip.com/verifyemailaccount.php) - Check the existence of an email account without sending an email.
+* [Verify Email Address](https://tools.verifyemailaddress.io/) - Email address verification technology from Email Hippo that connects to mailboxes and checks whether an email address exists.
+* [VoilaNorbert](https://www.voilanorbert.com/) - Hello. My name is Norbert. I can find anyone's email address.
