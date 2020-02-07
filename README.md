@@ -682,3 +682,57 @@ This is a repo containing several osint sources.
 
 ## Main Company Search Tools and Engines
 
+* [AIHIT](https://www.aihitdata.com/) - The Company Database.
+* [AllStocksLinks](http://www.allstocks.com/links/) - The links listed on this site will connect you to all the information you might need to make informed decisions about your investments.
+* [AngelList](https://angel.co/) - Experience the startup ecosystem — invest in startups, research the fastest-growing companies, and find a job you love.
+* [Annual Reports](http://www.annualreports.com/) - AnnualReports.com is the most complete and up-to-date listing of annual reports on the internet.
+* [Big Red Directory](https://www.bigreddirectory.com/) - Big Red Directory uses state of the art artificial intelligence to self update its own contents.
+* [bikudo](https://www.bikudo.com/) - Discover thousands of new products from manufacturers and suppliers.
+* [Bizeurope](Europe's leading business directory) - Bizeurope is the leading European business directory and online since 1999.
+* [Bizstats](https://www.bizstats.co.uk/) - Welcome to BizStats, your go to UK small business portal that delivers comprehensive and coherent information you seek.
+* [Bizstats](http://www.bizstats.com/) - Free business statistics and financial ratios.
+* [brandchecker](https://brandchecker.com/) - Check & claim your username on the most popular sites online.
+* [Business Source](https://www.ebsco.com/products/research-databases/business-source-complete) - It covers all disciplines of business, including marketing, management, accounting, banking, finance and more.
+* [Bureau Van Dijk](https://www.bvdinfo.com/en-gb) - We capture and treat private company information for better decision making and increased efficiency.
+* [Canadian Business Resource](http://www.cbr.ca/) - Detailed profiles on more than 100 Canadian Companies.
+* [Cedar Rose](https://www.cedar-rose.com/) - See what data we have in our database, download business information instantly, order a fresh KYC or credit report, give us your payment feedback or request a due diligence investigation.
+* [Comparably](https://www.comparably.com/) - Find Your Ideal Company & Compensation.
+* [CompeteShark](https://competeshark.com/) - Monitor, Track and Analyze your competitors’ marketing efforts in realtime.
+* [Corporate Information](https://www.corporateinformation.com/) - Financial Information on over 35000 Companies Worldwide.
+* [Corporation Wiki](https://www.corporationwiki.com/) - Search for a person or a company.
+* [CorpWatch](https://corpwatch.org/) - We fight for good jobs, good health, a good enviroment and good spendings.
+* [Crunchbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them.
+* [Dun & Bradstreet](https://www.dnb.com/) - Acquisition expands digital solutions portfolio and enriches the world's most comprehensive commercial database.
+* [EDGAR Online](https://www.dfinsolutions.com/products/edgar-online) - Draw meaningful data from real-time SEC filings.
+* [Engineering 360](https://www.globalspec.com/) - This site shows news about engineering.
+* [Euromonitor](https://www.euromonitor.com/) - Our market research solutions connect your organisation's goals with global opportunities.
+* [Europages](https://www.europages.co.uk/) - 3 million companies listed on the Europages portal, all potential opportunities for your business.
+* [Ezilon](https://www.ezilon.com/) - Ezilon.com guide you to easily access relevant information with emphasis on world regions.
+* [Factiva](https://global.factiva.com) - Factiva is a commercial database for press, corporate and business information offered by Dow Jones.
+* [Forbes Global 2000](https://www.forbes.com/global2000) - The World's Largest Public Companies.
+* [Fortune Global 500](https://fortune.com/global500/) - Fortune Global 500 shows the rankings of the world's 500 largest companies.
+* [Foursquare](https://foursquare.com/) - If it tells you where, it's probably built on Foursquare.
+* [Glassdoor](https://www.glassdoor.de/index.htm?countryRedirect=true) - Discover companies. Find dream job.
+* [globalEdge](https://globaledge.msu.edu/) - The Market Potential Index (MPI) is a guide that measures the potential of international markets by weighing a variety of dimensions such as market size, intensity, growth rate, consumption capacity, and receptivity.
+* [Google Finance](https://www.google.com/) - The best search engine in the world.
+* [GuideStar](https://www.guidestar.org/) - Search GuideStar for the most complete, up-to-date nonprofit data available.
+* [Hoovers](http://www.hoovers.com/) - Close More Business Faster with the New D&B Hoovers.
+* [HotFrog](https://www.hotfrog.com/) - United States's Freshest Local Business Directory.
+* [Inc. 5000](https://www.inc.com/inc5000/2019/top-private-companies-2019-inc5000.html) - 2019 Inc. 5000: The Most Successful Companies in America.
+* [infobel](https://www.infobel.com/) - Search for a company or a person anywhere in the world.
+* [Infocif (Spain)](http://www.infocif.es/) - Ranking of companies.
+* [Info clipper](http://www.info-clipper.com/en/) - Search and Find Company KYC Information in 200 Countries.
+* [InstantLogoSearch](http://instantlogosearch.com/) - Search & download thousands of logos instantly.
+* [iSpionage](https://www.ispionage.com/) - Steal Your Competitors' Traffic & Uncover Their Conversion Strategy.
+* [Investigative Dashboard Search](https://aleph.occrp.org/) - The global archive of research material for investigative reporting.
+* [Kompass](https://kompass.com/) - Turn digital adjustment screws and advance your business.
+* [Kyckr](https://portal.kyckr.co.uk/) - Official company search.
+* [Linkedin](https://www.linkedin.com/) - Welcome to your professional community.
+* [LittleSis](https://littlesis.org/) - LittleSis is a free database of who-knows-who at the heights of business and government.
+* [Mapped in Israel](https://mappedinisrael.com/) - The Israeli hi-tech industry on a map.
+* [Manta](https://www.manta.com/) - Rediscover America's Small Business.
+* [MarketLine](https://marketline.com/) - Marketline is a world leading provider of commercial intelligence.
+* [Mergent Intellect](https://www.mergentintellect.com/) - Search for companies.
+* [Mergent Online](https://www.mergentonline.com/) - Your World-Class Online Business and Financial Information Connection to the World.
+* [Mint Global](https://mintglobal.bvdinfo.com/version-20191118/home.serv?product=mintglobal) - Use Mint Global to find out more about companies.
+* [Morningstar Research](http://library.morningstar.com/) - Get comprehensive financial information on New York Stock Exchange, American Stock Exchange, and NASDAQ stocks.
