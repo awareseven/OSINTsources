@@ -591,8 +591,21 @@ This is a repo containing several osint sources.
 * [USSearch (US) ](https://www.ussearch.com/) - Search for People, Phone Numbers & Run Background Checks.
 * [Voter Registration Records (US)](https://voterrecords.com/) - Free political research tool to study more than 70 million voter records.
 
-# E-mail Search/E-mail Check
+## E-mail Search/E-mail Check
 
 * [411 (US)](https://www.411.com/) - Find Contact Information on yourself or anyone else.
 * [Ashley Madison Hack](https://ashley.cynic.al/) - Ashley Madison hacked email checker.
-* [BotScout](https://botscout.com/search.htm) - 
+* [BotScout](https://botscout.com/search.htm) - We catch bots so you don't have to.
+* [BreachAlarm](https://breachalarm.com/) - Find out if a password hack has exposed your password online.
+* [BriteVerify Email Verification](https://www.validity.com/products/briteverify/) - Email verification for the serious marketer.
+* [Cellular Email Assumptions](https://inteltechniques.com/osint/cellperm.html) - E-mail receiver.
+* [Clearbit Connect](https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en) - ind employee email addresses for any company and display useful contextual data for anyone who emails you.
+* [Custom Email Search Tools](https://inteltechniques.com/osint/menu.email.html) - Search for E-Mails send or received by you.
+* [DomainBigData](https://domainbigdata.com/) - DomainBigData is one of the leader in domain names and online investigation tools.
+* [Email Address Validator](https://www.email-validator.net/de/index.html) - Do you have email addresses in databases and lists that you are not sure whether they are still valid?
+* [Email Assumptions](https://inteltechniques.com/osint/email.html) - Check your received E-mails.
+* [Email Checker](https://email-checker.net/) - A simple tool to check whether an email address exists.
+* [EmailDrop](https://chrome.google.com/webstore/detail/emaildrop-extract-emails/peilgijmhiocdmdeglhiljipigamfbjh?hl=en) - Extract your E-mails.
+* [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en) - Discover and extract email ID's from any webpage.
+* [Email Extractor](http://emailx.discoveryvip.com/) - Extract your E-mails.
+* [Email Extractor Lite](http://eel.surf7.net.my/) - 
