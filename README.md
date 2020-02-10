@@ -825,3 +825,35 @@ This is a repo containing several osint sources.
 
 ## Company Research (US)
 
+* [Better Business Bureau ](https://www.bbb.org/) - Find businesses, charities and categories in North America.
+* [Business Source](https://www.ebsco.com/products/research-databases/business-source-complete) - It covers all disciplines of business, including marketing, management, accounting, banking, finance and more.
+* [Company Registration Round the World](https://www.sg.ch/recht/handelsregister-notariate.html) - Commercial Register & Notaries.
+* [Company Research Resources by Country](http://www.rba.co.uk/sources/registers.htm) - Business information: official company registers.
+* [Comparably](https://www.comparably.com/) - Find Your Ideal Company & Compensation.
+* [Corporation Wiki](https://www.corporationwiki.com/) - Search for a person or a company.
+* [EDGAR Online](https://www.dfinsolutions.com/products/edgar-online) - Draw meaningful data from real-time SEC filings.
+* [Ezilon](https://www.ezilon.com/) - Ezilon.com guide you to easily access relevant information with emphasis on world regions.
+* [Foursquare](https://foursquare.com/) - If it tells you where, it's probably built on Foursquare.
+* [Glassdoor](https://www.glassdoor.de/index.htm?countryRedirect=true) - Discover companies. Find dream job.
+* [GuideStar](https://www.guidestar.org/) - Search GuideStar for the most complete, up-to-date nonprofit data available.
+* [Inc. 5000](https://www.inc.com/inc5000/2019/top-private-companies-2019-inc5000.html) - 2019 Inc. 5000: The Most Successful Companies in America.
+* [iSpionage](https://www.ispionage.com/) - Steal Your Competitors' Traffic & Uncover Their Conversion Strategy.
+* [Knowledge guide to international company registration](https://www.icaew.com/library/subject-gateways/business-management/knowledge-guide-international-company-registration) - A list of international company registers, including sources from the print collection of the ICAEW Library and the internet.
+* [Kompass](https://kompass.com/) - Turn digital adjustment screws and advance your business.
+* [Kyckr](https://portal.kyckr.co.uk/) - Official company search.
+* [LinkSV](https://www.linksv.com/) - LinkSV is Silicon Valley's most detailed database of people, companies and capital.
+* [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers) - List of company register.
+* [Manta](https://www.manta.com/) - Rediscover America's Small Business.
+* [MarketLine](https://marketline.com/) - Marketline is a world leading provider of commercial intelligence.
+* [Mergent Online](https://www.mergentonline.com/) - Your World-Class Online Business and Financial Information Connection to the World.
+* [orbis directory](https://orbisdirectory.bvdinfo.com/version-20181213/OrbisDirectory/Companies) - Get a free profile on a company or use your credit/debit card to buy more detailed reports.
+* [opencorporates](https://opencorporates.com/) - The largest open database of companies in the world.
+* [Owler](https://corp.owler.com/) - Track the companies that matter to you.
+* [PrivCo](https://www.privco.com/) - Accelerate your U.S. private company research with actionable financial insights.
+* [SEMrush](https://www.semrush.com/) - All-in-one Marketing Toolkit for digital marketing professionals.
+* [Skimleads](http://skimleads.com) - Automated advertising platform for your business.
+* [Stall Finder](https://www.stallfinder.com/) - Find a stallholder.
+* [Startupexplore](https://startupxplore.com/en/startups) - The most updated startup database. Ready to get found and get funded.
+* [Vault](https://www.vault.com/) - Find out what it's really like to work within an industry, company, or profession, and how to position yourself to start, advance, or change your career.
+* [Wall Street Oasis](https://www.wallstreetoasis.com/wso-company-database) - Gain Access To Exclusive Data On Compensation, Interviews And Employee Reviews.
+
