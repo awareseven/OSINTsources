@@ -736,3 +736,23 @@ This is a repo containing several osint sources.
 * [Mergent Online](https://www.mergentonline.com/) - Your World-Class Online Business and Financial Information Connection to the World.
 * [Mint Global](https://mintglobal.bvdinfo.com/version-20191118/home.serv?product=mintglobal) - Use Mint Global to find out more about companies.
 * [Morningstar Research](http://library.morningstar.com/) - Get comprehensive financial information on New York Stock Exchange, American Stock Exchange, and NASDAQ stocks.
+* [Notablist](https://www.notablist.com/) - Notablist reveals the technology stacks & sending practices of more than 600,000 emailers.
+* [orbis directory](https://orbisdirectory.bvdinfo.com/version-20181213/OrbisDirectory/Companies) - Get a free profile on a company or use your credit/debit card to buy more detailed reports.
+* [opencorporates](https://opencorporates.com/) - The largest open database of companies in the world.
+* [Owler](https://corp.owler.com/) - Track the companies that matter to you.
+* [Plunkett Research](http://www.plunkettresearchonline.com/) - Market Research: Business, Industry and Consumers, Data, Forecasts, Market Size, Technologies, Statistics and Trends Analysis.
+* [The Public Register](http://www.annualreportservice.com/) - Welcome to The Public Register Online, the largest free directory of online annual reports available on the web.
+* [The Public Register](http://www.prars.com/) - Get annual reports.
+* [Quandl](https://www.quandl.com/) - The world's most powerful data lives on Quandl.
+* [Report Linker](https://www.reportlinker.com/) - Search industry reports, statistics & slideshows.
+* [Ripoff Report](https://www.ripoffreport.com/) - Search by company, individual or report number.
+* [Sqoop](https://sqoop.com/) - Research tools and email alerts help you find and break the news faster.
+* [Skimleads](http://skimleads.com) - Automated advertising platform for your business.
+* [SpyFu](https://www.spyfu.com) - Download Your Competitors Most Profitable Keywords and Ads For Paid and Organic Search.
+* [Startupexplore](https://startupxplore.com/en/startups) - The most updated startup database. Ready to get found and get funded.
+* [ThomasNet](https://www.thomasnet.com/) - Find Suppliers, Insights, Tools and More.
+* [Vault](https://www.vault.com/) - Find out what it's really like to work within an industry, company, or profession, and how to position yourself to start, advance, or change your career.
+* [Xing](https://www.xing.com/) - A place. Many people you care about. Find out the latest here, share your ideas and get inspiration.
+* [Yahoo Finance](https://finance.yahoo.com/) - Search for news, symbols or companies.
+* [Zauba Corp](https://www.zaubacorp.com/) - Zauba Corp helps you know financial performance of businesses you deal with Access critical documents and information for facts based decision making.
+* [Zoominfo](https://www.zoominfo.com/companies-search) - Search for companies.
