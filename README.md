@@ -28,7 +28,7 @@ This is a repo containing several osint sources.
 * [Company Research (UK)](#company-research-uk)
 * [Company Research (US)](#company-research-us)
 * [Company Research (Switzerland)](#company-research-switzerland)
-* [Domain and IP Research, Websites Analysis](#domain-andip-research-websites-analysis)
+* [Domain and IP Research, Websites Analysis](#domain-and-ip-research-websites-analysis)
 
 ## General Search
 
