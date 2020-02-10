@@ -25,6 +25,7 @@ This is a repo containing several osint sources.
 * [Username Check](#username-check)
 * [Main Company Search Tools and Engines](#main-company-search-tools-and-engines)
 * [Company Research (EU)](#company-research-eu)
+* [Company Research (UK)](#company-research-uk)
 
 ## General Search
 
@@ -759,4 +760,25 @@ This is a repo containing several osint sources.
 * [Zoominfo](https://www.zoominfo.com/companies-search) - Search for companies.
 
 ## Company Research (EU)
+
+* [Bizeurope](http://www.bizeurope.com/) - Bizeurope is the leading European business directory and online since 1999.
+* [Central and Eastern European Business Directory](https://www.ceebd.co.uk/ceebd/) - Central & Eastern European Business Directory.
+* [Company Registration Round the World](https://www.sg.ch/recht/handelsregister-notariate.html) - Commercial Register & Notaries.
+* [Company Research Resources by Country](http://www.rba.co.uk/sources/registers.htm) - Reporting and filing requirements for companies differ from country to country and sometimes from state to state, or region to region.
+* [De Telefoongids (Netherlands)](https://www.detelefoongids.nl/) - All companies: clear, current and complete.
+* [Europages](https://www.europages.co.uk/) - 3 million companies listed on the Europages portal, all potential opportunities for your business.
+* [European Business Register](https://ebra.be/) - The European Business Registry Association.
+* [Ezilon](https://www.ezilon.com/) - Guide you to easily access relevant information with emphasis on world regions.
+* [Foursquare](https://de.foursquare.com/) - Use the most trusted independent location data and associated technology platform to the benefit of your business.
+* [Knowledge guide to international company registration](https://www.icaew.com/library/subject-gateways/business-management/knowledge-guide-international-company-registration) - A list of international company registers, including sources from the print collection of the ICAEW Library and the internet.
+* [Kompass](https://de.kompass.com/) - Finden Sie Infos über 43 Mio. Unternehmen in mehr als 65 Ländern.
+* [Kyckr](https://portal.kyckr.co.uk/) - Official company search.
+* [Libreborme](https://librebor.me/) - Webplattform zur Einsicht und Analyse des Amtsblatts des Handelsregister.
+* [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers) - List of company register.
+* [opencorporates](https://opencorporates.com/) - The largest open database of companies in the world.
+* [SEMrush](https://www.semrush.com/) - All-in-one Marketing Toolkit for digital marketing professionals.
+* [Skimleads](http://skimleads.com) - Automated advertising platform for your business.
+* [Startupexplore](https://startupxplore.com/en/startups) - The most updated startup database. Ready to get found and get funded.
+
+## Company Research (UK)
 
