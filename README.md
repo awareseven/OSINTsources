@@ -28,6 +28,7 @@ This is a repo containing several osint sources.
 * [Company Research (UK)](#company-research-uk)
 * [Company Research (US)](#company-research-us)
 * [Company Research (Switzerland)](#company-research-switzerland)
+* [Domain and IP Research, Websites Analysis](#domain-andip-research-websites-analysis)
 
 ## General Search
 
@@ -859,4 +860,15 @@ This is a repo containing several osint sources.
 * [Wall Street Oasis](https://www.wallstreetoasis.com/wso-company-database) - Gain Access To Exclusive Data On Compensation, Interviews And Employee Reviews.
 
 ## Company Research (Switzerland)
+
+* [Company Research Resources by Country](http://www.rba.co.uk/sources/registers.htm) - Reporting and filing requirements for companies differ from country to country and sometimes from state to state, or region to region.
+* [Knowledge guide to international company registration](https://www.icaew.com/library/subject-gateways/business-management/knowledge-guide-international-company-registration) - A list of international company registers, including sources from the print collection of the ICAEW Library and the internet.
+* [Kompass](https://kompass.com/) - Turn digital adjustment screws and advance your business.
+* [Kyckr](https://portal.kyckr.co.uk/) - Official company search.
+* [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers) - List of company register.
+* [orbis directory](https://orbisdirectory.bvdinfo.com/version-20181213/OrbisDirectory/Companies) - Get a free profile on a company or use your credit/debit card to buy more detailed reports.
+* [SEMrush](https://www.semrush.com/) - All-in-one Marketing Toolkit for digital marketing professionals.
+* [Skimleads](http://skimleads.com) - Automated advertising platform for your business.
+
+## Domain and IP Research, Websites Analysis
 
