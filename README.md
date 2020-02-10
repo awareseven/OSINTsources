@@ -872,3 +872,48 @@ This is a repo containing several osint sources.
 
 ## Domain and IP Research, Websites Analysis
 
+* [Accuranker](https://www.accuranker.com/) - The Rank Tracker for Agencies and SEO Professionals.
+* [ahrefs](https://ahrefs.com/) - Ahrefs helps you learn why your competitors rank so high and what you need to do to outrank them.
+* [Alexa](https://www.alexa.com/) - Get better marketing results by finding untapped opportunities to grow your business.
+* [altdns](https://github.com/infosec-au/altdns) - Generates permutations, alterations and mutations of subdomains and then resolves them.
+* [APNIC](https://www.apnic.net/) - APNIC is the Regional Internet Registry administering IP addresses for the Asia Pacific.
+* [aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers.
+* [ARIN](https://www.arin.net/) - ARIN is a nonprofit, member-based organization that administers IP addresses & ASNs in support of the operation and growth of the Internet.
+* [Backlink Checker](https://smallseotools.com/backlink-checker/) - Quality links can help you beat your competitors with increased traffic. With our Backlink Checker, you can easily monitor backlinks for a particular domain.
+* [BGP](https://bgp.he.net/) - Search for IPs and ISPs.
+* [Bing Webmaster Tools](https://www.bing.com/toolbox/webmaster) - Bing Webmaster offers intuitive, public tools that offer you numerous options for working with your website.
+* [Blacklist Check Tool](http://www.blchecktool.com/) - Check multiple IP address range in DNS blacklist zones.
+* [Blue Backlinks](https://bluebacklinks.com/) - Use the world's most powerful backlink checker free.
+* [Bluto-Old](https://github.com/darryllane/Bluto-Old) - Recon, Subdomain Bruting and Zone Transfers.
+* [BotScout](https://botscout.com/search.htm) - We catch bots so you don't have to.
+* [BrightCloud URL or IP Lookup](https://www.brightcloud.com/tools/url-ip-lookup.php) - Enter a URL or IP address to view threat, content and reputation analysis.
+* [BuiltWith](https://builtwith.com/) - Enter a website adress, a technology name or a keyword.
+* [Censys](https://censys.io/) - Get a current view of all of your organization's assets so you can proactively prevent targeted attacks and investigate suspicious activity.
+* [Central Ops](https://centralops.net/co/) - Free online network tools.
+* [certgraph](https://github.com/lanrat/certgraph) - An open source intelligence tool to crawl the graph of certificate Alternate Names.
+* [Certificate Search](https://crt.sh) - Enter a Identity, a Certificate Fingerprint or a crt.sh ID.
+* [clearwebstats](https://www.clearwebstats.com/) - Information about every site.
+* [CloudFail](https://github.com/m0rtem/CloudFail) - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network.
+* [Complete DNS](https://completedns.com/) - Research domain nameserver changes and drops.
+* [Copyscape](https://www.copyscape.com/) - Search for copies of your page on the web.
+* [Crt.sh](https://crt.sh) - Enter a Identity, a Certificate Fingerprint or a crt.sh ID.
+* [CQCounter](http://cqcounter.com/whois/) -  IP Address / Domain Name Lookup.
+* [Custom Domain Search Tools](https://inteltechniques.com/osint/menu.domain.html - Search for a domain.
+* [Custom IP Address Search Tools](https://inteltechniques.com/osint/menu.ip.html) - Search for a IP.
+* [CuteStats](https://www.cutestat.com/) - Website and stats valuation.
+* [Cymru IP to ASN Lookup](https://asn.cymru.com/) - Look an IP up.
+* [Daily Changes](http://dailychanges.domaintools.com/) - DailyChanges.DomainTools.com monitors DNS changes for domain names and presents you with meaningful and actionable reporting on those changes.
+* [DB-IP](https://db-ip.com/) - Your ultimate resource IP address geolocation and network intelligence.
+* [Dedicated or Not](http://dedicatedornot.com/) - DedicatedOrNot.com is your go to source for determining the type of hosting a site resides on.
+* [Denic web whois](https://www.denic.de/webwhois/) - Check if a domain is avaible.
+* [Digital Point](https://tools.digitalpoint.com/) - Advertise virtually anything here, with CPM banner ads, CPM email ads and CPC contextual links.
+* [Directory of Malicious IPs](https://www.projecthoneypot.org/list_of_ips.php) - Directory of Malicious IPs.
+* [DNSDumpster](https://dnsdumpster.com/) - Dns recon & research, find & lookup dns records.
+* [DNSlytics](https://dnslytics.com/) - Search for domain, IPv4/IPv6 or Provider.
+* [dnspop](https://github.com/bitquark/dnspop) - Analysis of DNS records to find popular trends.
+* [dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script.
+* [DNS Root Instances](https://atlas.ripe.net/results/maps/root-instances/) - Search IP address or ASN.
+* [DNSSec Analyzer](https://dnssec-analyzer.verisignlabs.com/) - Enter a domain name to be tested.
+* [DNS Spy](https://dnsspy.io/) - Monitor, validate and verify your DNS configurations.
+* [DNSStuff](https://www.dnsstuff.com/) - Reviews, Opinions and Tools.
+* [DNS Trails](https://securitytrails.com/dns-trails) - Data for security companies, researchers and teams who need to drill down, find suspicious changes to DNS records, and prevent future fraudulent or criminal activity.
