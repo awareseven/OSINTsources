@@ -24,6 +24,7 @@ This is a repo containing several osint sources.
 * [E-mail Search/E-mail Check](#e-mail-searche-mail-check)
 * [Username Check](#username-check)
 * [Main Company Search Tools and Engines](#main-company-search-tools-and-engines)
+* [Company Research (EU)](#company-researcheu)
 
 ## General Search
 
@@ -756,3 +757,6 @@ This is a repo containing several osint sources.
 * [Yahoo Finance](https://finance.yahoo.com/) - Search for news, symbols or companies.
 * [Zauba Corp](https://www.zaubacorp.com/) - Zauba Corp helps you know financial performance of businesses you deal with Access critical documents and information for facts based decision making.
 * [Zoominfo](https://www.zoominfo.com/companies-search) - Search for companies.
+
+## Company Research (EU)
+
