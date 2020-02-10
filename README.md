@@ -26,6 +26,7 @@ This is a repo containing several osint sources.
 * [Main Company Search Tools and Engines](#main-company-search-tools-and-engines)
 * [Company Research (EU)](#company-research-eu)
 * [Company Research (UK)](#company-research-uk)
+* [Company Research (US)](#company-research-us)
 
 ## General Search
 
@@ -771,7 +772,7 @@ This is a repo containing several osint sources.
 * [Ezilon](https://www.ezilon.com/) - Guide you to easily access relevant information with emphasis on world regions.
 * [Foursquare](https://de.foursquare.com/) - Use the most trusted independent location data and associated technology platform to the benefit of your business.
 * [Knowledge guide to international company registration](https://www.icaew.com/library/subject-gateways/business-management/knowledge-guide-international-company-registration) - A list of international company registers, including sources from the print collection of the ICAEW Library and the internet.
-* [Kompass](https://de.kompass.com/) - Finden Sie Infos über 43 Mio. Unternehmen in mehr als 65 Ländern.
+* [Kompass](https://de.kompass.com/) - Find information about 43 million companies in more than 65 countries.
 * [Kyckr](https://portal.kyckr.co.uk/) - Official company search.
 * [Libreborme](https://librebor.me/) - Webplattform zur Einsicht und Analyse des Amtsblatts des Handelsregister.
 * [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers) - List of company register.
@@ -781,4 +782,46 @@ This is a repo containing several osint sources.
 * [Startupexplore](https://startupxplore.com/en/startups) - The most updated startup database. Ready to get found and get funded.
 
 ## Company Research (UK)
+
+* [Big Red Directory](https://www.bigreddirectory.com/) - Big Red Directory uses state of the art artificial intelligence to self update its own contents.
+* [BizDB](https://www.bizdb.co.uk/) - Search company name.
+* [Bizstats](https://www.bizstats.co.uk/) - Free company search.
+* [Central and Eastern European Business Directory](https://www.ceebd.co.uk/ceebd/) - Central & Eastern European Business Directory.
+* [Claims Management Regulation – Authorised Business Register](https://register.fca.org.uk/) - Search by company, person, product, reference number or postcode.
+* [Companies in the UK](https://www.companiesintheuk.co.uk/) - Enter company name, number or officer name.
+* [Company Registration Round the World](https://www.sg.ch/recht/handelsregister-notariate.html) - Commercial Register & Notaries.
+* [Company Research Resources by Country](http://www.rba.co.uk/sources/registers.htm) - Business information: official company registers.
+* [Cylex (UK)](https://www.cylex-uk.co.uk/) - Cylex Local Search UK.
+* [ELTO (UK)](https://eld.elto.org.uk/) - Employers' Liability Tracing Office.
+* [Employment Tribunal Decisions (UK)](https://www.gov.uk/employment-tribunal-decisions) - Search any companies.
+* [Europages](https://www.europages.co.uk/) - 3 million companies listed on the Europages portal, all potential opportunities for your business.
+* [European Business Register](https://ebra.be/) - The European Business Registry Association.
+* [Ezilon](https://www.ezilon.com/) - Guide you to easily access relevant information with emphasis on world regions.
+* [Fair Trades](https://www.fairtrades.co.uk/) -  Helping you find the best tradesman.
+* [Financial Conduct Authority Search (UK)](https://www.fca.org.uk/search-results?search_term=clone%20firm%20details&start=1&sort_by=dmetaZ) - Search for details of a company.
+* [Foursquare](https://de.foursquare.com/) - Use the most trusted independent location data and associated technology platform to the benefit of your business.
+* [Food Hygiene Ratings (UK)](https://www.scoresonthedoors.org.uk//index.php) - Scores on the Doors – for consumers.
+* [iSpionage](https://www.ispionage.com/) - Steal Your Competitors' Traffic & Uncover Their Conversion Strategy.
+* [Knowledge guide to international company registration](https://www.icaew.com/library/subject-gateways/business-management/knowledge-guide-international-company-registration) - A list of international company registers, including sources from the print collection of the ICAEW Library and the internet.
+* [Kompass](https://de.kompass.com/) - Find information about 43 million companies in more than 65 countries.
+* [Kyckr](https://portal.kyckr.co.uk/) - Official company search.
+* [Local Heroes](https://www.localheroes.com/) - Come here when you need a tradesperson.
+* [My Builder](https://www.mybuilder.com/) - MyBuilder makes it easy to find quality local tradesmen, reviewed by other homeowners, all across the UK.
+* [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers) - List of company register.
+* [Opening Times (UK)](https://www.opening-times.co.uk/) - Opening-times.co.uk - The most complete and current platform for opening times and Sunday shopping.
+* [orbis directory](https://orbisdirectory.bvdinfo.com/version-20181213/OrbisDirectory/Companies) - Find a company.
+* [opencorporates](https://opencorporates.com/) - The largest open database of companies in the world.
+* [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries) - Links to other registries.
+* [Scoot](https://www.scoot.co.uk/) - Search for the business or service you require.
+* [SEMrush](https://www.semrush.com/) - All-in-one Marketing Toolkit for digital marketing professionals.
+* [Skimleads](http://skimleads.com) - Automated advertising platform for your business.
+* [Stall Finder](https://www.stallfinder.com/) - Find a stallholder.
+* [Tradesmen Corner (UK)](https://www.tradesmencorner.co.uk/) - People use Tradesmen Corner to discover great local businesses in their neighbourhood.
+* [Trustatrader](https://www.trustatrader.com/) - Find a local trusted trader.
+* [Trust Mark (UK)](https://www.trustmark.org.uk/) - Find your local TrustMark Business.
+* [Trust Pilot (UK)](https://uk.trustpilot.com/) - Behind every review is an experience that matters.
+* [UK Companies List](https://www.companieslist.co.uk/) - Find, check and analyze companies data.
+* [Yell](https://www.yell.com/) - The UK's leading online business directory.
+
+## Company Research (US)
 
