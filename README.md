@@ -27,6 +27,7 @@ This is a repo containing several osint sources.
 * [Company Research (EU)](#company-research-eu)
 * [Company Research (UK)](#company-research-uk)
 * [Company Research (US)](#company-research-us)
+* [Company Research (Switzerland)](#company-research-switzerland)
 
 ## General Search
 
@@ -856,4 +857,6 @@ This is a repo containing several osint sources.
 * [Startupexplore](https://startupxplore.com/en/startups) - The most updated startup database. Ready to get found and get funded.
 * [Vault](https://www.vault.com/) - Find out what it's really like to work within an industry, company, or profession, and how to position yourself to start, advance, or change your career.
 * [Wall Street Oasis](https://www.wallstreetoasis.com/wso-company-database) - Gain Access To Exclusive Data On Compensation, Interviews And Employee Reviews.
+
+## Company Research (Switzerland)
 
