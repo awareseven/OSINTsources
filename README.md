@@ -898,7 +898,7 @@ This is a repo containing several osint sources.
 * [Copyscape](https://www.copyscape.com/) - Search for copies of your page on the web.
 * [Crt.sh](https://crt.sh) - Enter a Identity, a Certificate Fingerprint or a crt.sh ID.
 * [CQCounter](http://cqcounter.com/whois/) -  IP Address / Domain Name Lookup.
-* [Custom Domain Search Tools](https://inteltechniques.com/osint/menu.domain.html - Search for a domain.
+* [Custom Domain Search Tools](https://inteltechniques.com/osint/menu.domain.html) - Search for a domain.
 * [Custom IP Address Search Tools](https://inteltechniques.com/osint/menu.ip.html) - Search for a IP.
 * [CuteStats](https://www.cutestat.com/) - Website and stats valuation.
 * [Cymru IP to ASN Lookup](https://asn.cymru.com/) - Look an IP up.
