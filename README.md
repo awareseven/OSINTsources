@@ -24,7 +24,7 @@ This is a repo containing several osint sources.
 * [E-mail Search/E-mail Check](#e-mail-searche-mail-check)
 * [Username Check](#username-check)
 * [Main Company Search Tools and Engines](#main-company-search-tools-and-engines)
-* [Company Research (EU)](#company-researcheu)
+* [Company Research (EU)](#company-research-eu)
 
 ## General Search
 
