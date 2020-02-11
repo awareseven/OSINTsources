@@ -34,6 +34,7 @@ This is a repo containing several osint sources.
 * [Documents and Slides Search](#documents-and-slides-search)
 * [Pastebins](#pastebins)
 * [Document and Reference Management](#document-and-reference-management)
+* [Data Scrapers](#data-scrapers)
 
 ## General Search
 
@@ -1168,4 +1169,19 @@ This is a repo containing several osint sources.
 * [Paste Site Search](http://netbootcamp.org/pastesearch.html#gsc.tab=0) - Search 90+ paste sites and filter by source & keyword.
 
 ## Document and Reference Management
+
+* [Colwiz](https://www.wizdom.ai/) - Our AI continuously monitors billions of data points about the global research ecosystem to provide actionable insights for your decision making.
+* [DocumentCloud](https://www.documentcloud.org/) - Analyze, Annotate, Publish. Turn documents into data.
+* [Endnote](https://endnote.com/) - With EndNote X9, you can leave behind the tedious work of formatting bibliographies, finding full text, and searching for references.
+* [F1000](https://f1000.com/) - We provide innovative solutions for how research is shared, used and reused.
+* [Investigative Dashboard Search](https://aleph.occrp.org/) - The global archive of research material for investigative reporting.
+* [Mendeley](https://www.mendeley.com/?interaction_required=true) - Mendeley brings your research to life, so you can make an impact on tomorrow.
+* [Omnity](https://www.omnity.io/) - Unifying Knowledge For Faster Insight.
+* [Open Semantic Desktop Search](https://www.opensemanticsearch.org/doc/desktop_search) - Free software for your own desktop search engine for full text search, exploratory search and text analysis on Windows or Mac.
+* [Overview](https://www.overviewdocs.com/) - Search, visualize, and review your documents. Up to hundreds of thousands of them, in any format.
+* [Readcube](https://www.readcube.com/home) - We build technologies for researchers.
+* [RefME](https://www.citethisforme.com/) - Create Harvard, APA & MLA citations for your bibliography.
+* [Zotero](https://www.zotero.org/) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
+
+## Data Scrapers
 
