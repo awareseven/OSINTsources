@@ -1108,7 +1108,7 @@ This is a repo containing several osint sources.
 * [UK Web Archive](https://www.webarchive.org.uk/) - Search the UK Web Archive.
 * [Wayback Machine](http://archive.org/web/web.php) - Explore more than 411 billion web pages saved over time.
 * [Wayback Machine Chrome Add-on](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?hl=en-US) - Reduce annoying 404 pages by automatically checking for an archived copy in the Wayback Machine.
-* [View-pagearchive](Browser extension for viewing archived and cached versions of web pages) - Browser extension for viewing archived and cached versions of web pages.
+* [View-pagearchive](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages.
 * [waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 * [Web2PDF](https://www.web2pdfconvert.com/) - Convert Web Page to PDF.
 * [Web2Pdf.](https://www.microsoft.com/en-us/p/web2pdf/9nblgggz5phq?activetab=pivot:overviewtab) - Now you can save any web page as pdf and read it later.
