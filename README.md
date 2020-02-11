@@ -1228,3 +1228,14 @@ This is a repo containing several osint sources.
 
 ## Website Monitoring
 
+* [ChangeTower](https://changetower.com/) - A powerful website change detection & archiving platform. Set custom alert criteria, monitor and track website changes, get notified.
+* [deltafeed](https://bitreading.com/deltafeed/) - Get changes on any website as a News Feed in your Inbox.
+* [Distil Web Monitor](https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=en-US) - Monitor webpage or feed for changes. Get SMS and email alerts on change detection.
+* [Feed43](http://feed43.com/) - Convert web pages into professionally looking RSS feeds.
+* [FollowThatPage](https://www.followthatpage.com/) - Follow That Page is a change detection and notification service that sends you an email when your favourite web pages have changed. We monitor the web for you.
+* [OnWebChange](https://onwebchange.com/) - Track web page changes and get notified.
+* [urlwatch](https://github.com/thp/urlwatch) - Urlwatch monitors webpages for you.
+* [versionista](https://versionista.com/) - Track and Detect Web Page Edits.
+* [visualping](https://visualping.io/) - We monitor webpages… so you don't have to.
+* [WatchThatPage](http://www.watchthatpage.com/) - WatchThatPage is a service that enables you to automatically collect new information from your favorite pages on the Internet.
+* [WebSite Watcher](https://www.aignes.com/index.htm) - Monitor websites for new content and changes.
