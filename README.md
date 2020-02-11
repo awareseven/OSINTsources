@@ -1139,4 +1139,21 @@ This is a repo containing several osint sources.
 
 ## Documents and Slides Search
 
-* [Ask the EU](
+* [Ask the EU](https://www.asktheeu.org/) - AskTheEU.org is an online platform for citizens to send access to documents requests directly to EU institutions.
+* [Authorstream](http://www.authorstream.com/) - The best way to share presentations on the web.
+* [Court Listener](https://www.courtlistener.com/recap/) - Search our database of millions of PACER documents and dockets.
+* [Custom Document Search by Format](https://inteltechniques.com/osint/docs.format.html) - Search custom documents by format.
+* [Custom Documents Search Tool](https://inteltechniques.com/osint/docs.html) - Search custom documents.
+* [DocumentCloud Search](https://www.documentcloud.org/public/search/) - Search for any documents.
+* [Find-pdf-doc](http://www.findpdfdoc.com/) - You can search all documents.
+* [Free Full PDF](http://www.freefullpdf.com) - Download Free Scientific Publications.
+* [goofile](https://tools.kali.org/information-gathering/goofile) - Use this tool to search for a specific file type in a given domain.
+* [Inevstigative Dashboard Search](https://aleph.occrp.org/) - The global archive of research material for investigative reporting.
+* [Offshore Leak Database](https://offshoreleaks.icij.org/) - Find out who’s behind more than 785,000 offshore companies, foundations and trusts from the Panama Papers, the Offshore Leaks, the Bahamas Leaks and the Paradise Papers investigations.
+* [PDF Search Engine](http://www.pdfsearchengine.info/) - Search for PDF files.
+* [RECAP](https://www.courtlistener.com/recap/) - Search our database of millions of PACER documents and dockets.
+* [Scribd](http://www.scribd.com) - Thousands of the best books, audio books and more. All in one app.
+* [SlideSearchEngine](http://www.slidesearchengine.com/) - #1 Slide Search Engine.
+* [SlideShare](https://www.slideshare.net/) - Share what you know and love through presentations, infographics, documents and more.
+* [Slideworld](http://www.slideworld.com/) -  On Slideworld one can search for PowerPoint presentations to help them save time and prepare an informative presentation in no time.
+* [soPDF.com](http://www.sopdf.com/) - >435.000 free PDF files.
