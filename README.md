@@ -35,6 +35,7 @@ This is a repo containing several osint sources.
 * [Pastebins](#pastebins)
 * [Document and Reference Management](#document-and-reference-management)
 * [Data Scrapers](#data-scrapers)
+* [Website Monitoring](#website-monitoring)
 
 ## General Search
 
@@ -1184,4 +1185,46 @@ This is a repo containing several osint sources.
 * [Zotero](https://www.zotero.org/) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
 
 ## Data Scrapers
+
+* [Agenty](https://www.agenty.com/) - Cloud-based agents for data scraping, text extraction, ocr, categorization, change detection, sentiment analysis and more.
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree.
+* [Big Data Made Simple](https://bigdata-madesimple.com/top-50-open-source-web-crawlers-for-data-mining) - Top 50 open source web crawlers for data mining.
+* [Cola](https://github.com/qinxuye/cola) - A high-level distributed crawling framework.
+* [Content Bomb](http://www.contentbomb.com/) - ContentBomb is designed to be very smart, allowing you to scrape anything and convert it into any format of new content, then you can save the new content in any custom format or submit it to your blog or website.
+* [Common Crawl](http://commoncrawl.org/) - We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone.
+* [Crawly](http://crawly.diffbot.com/) - Turn websites into data in seconds. Crawly spiders and extracts complete structured data from an entire website.
+* [Crawl Monster](https://www.crawlmonster.com/) - CrawlMonster is a comprehensive analytics tool, providing technical issues about your websites.
+* [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy) - Cyotek WebCopy is a free tool for copying full or partial websites locally onto your harddisk for offline viewing.
+* [Data Miner](https://data-miner.io/) - Data Miner is a Google Chrome extension that helps you scrape data from web pages and into a CSV file or Excel spreadsheet.
+* [Demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.
+* [Dexi.io](https://www.dexi.io/) - The leading Dexi.io Web Scraping, interaction, monitoring and process software delivers rapid data insights leading to better decisions and business performance.
+* [DiffBot](https://www.diffbot.com/) - The web is the largest database in the world, but it's never been easy to extract data from.
+* [FMiner](http://www.fminer.com/) - Visual web scraping software with macro recorder and diagram designer.
+* [Getleft](https://sourceforge.net/projects/getleftdown/) - Getleft is a Web site grabber, it downloads complete web sites according to the options set by the user.
+* [Helium Scraper](https://www.heliumscraper.com/eng/) - Extract data from any website.
+* [HTTrack](https://www.httrack.com/) - HTTrack is a free and easy-to-use offline browser utility.
+* [Import.io](https://www.import.io/) - Import.io helps the world’s largest companies strategize for success with smart web-data.
+* [Lassie](https://github.com/michaelhelmick/lassie) - Web Content Retrieval for Humans.
+* [Listly](https://www.listly.io/) - The Fastest Web Scraping.
+* [Mechanical Soup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
+* [Octoparse](https://www.octoparse.com/) - Quickly scrape web data without coding. Turn web pages into structured spreadsheets within clicks.
+* [Open Data Tools](http://opendata-tools.org/en/data/) - Tools to Explore, Publish and Share Public Datasets.
+* [OutWit Docs](https://www.outwit.com/products/docs) - OutWit Docs : Your Webtop document harvester.
+* [OutWit Hub](https://www.outwit.com/products/hub) - OutWit Hub explores the depths of the Web for you, automatically collecting and organizing data and media from online sources.
+* [Parsehub](https://www.parsehub.com/) - ParseHub is a free and powerful web scraping tool.
+* [Portia](https://scrapinghub.com/data-services) - We extract the data you need and deliver it exactly as you’d like it.
+* [Pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
+* [Reaper](https://reaper.social/) - Download social media data - no coding required.
+* [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd?hl=en) - Scraper gets data out of web pages and into spreadsheets.
+* [Scraper Wiki](https://scraperwiki.com/) - It’s a Python and R data analysis environment, ideal for economists, statisticians and data managers who are new to coding.
+* [Scrapy](https://scrapy.org/) - An open source and collaborative framework for extracting the data you need from websites. In a fast, simple, yet extensible way.
+* [Screen Scraper](https://www.screen-scraper.com/) - Screen scraping or web scraping is the process of automatically downloading text, images, and other content from websites using data extraction software.
+* [Sitebulb](https://sitebulb.com/) - Sitebulb is an award-winning SEO tool that delivers instantly actionable insights and intuitive data visualizations.
+* [UiPath](https://www.uipath.com/) - We make robots so people don’t have to be robots.
+* [Web Harvy](https://www.webharvy.com/) - WebHarvy can easily extract Text, HTML, Images, URLs & Emails from websites, and save the extracted content in various formats.
+* [Webhose.io](https://webhose.io/) - We turn unstructured web content into machine-readable data feeds you can consume on demand.
+* [Web Scraper](https://webscraper.io/) - Making web data extraction easy and accessible for everyone.
+* [80 Legs](http://80legs.com/) - Easy Web Scraping Tools and Cloud-Based Web Crawling.
+
+## Website Monitoring
 
