@@ -31,6 +31,7 @@ This is a repo containing several osint sources.
 * [Domain and IP Research, Websites Analysis](#domain-and-ip-research-websites-analysis)
 * [Web History and Website Capture](#web-history-and-website-capture)
 * [Researching Dark Web](#researching-dark-web)
+* [Documents and Slides Search](#documents-and-slides-search)
 
 ## General Search
 
@@ -1118,3 +1119,24 @@ This is a repo containing several osint sources.
 
 ## Researching Dark Web
 
+* [DarkNet Stats](https://dnstats.net/) - DNStats tracks uptime of darknet markets, has a darknet market list, and keeps an eye on all tor and darknet news.
+* [Dark Web Map](https://www.hyperiongray.com/dark-web-map/) - The Dark Web Map is a visualization of the structure of Tor's onion services, a.k.a. hidden services, a.k.a. the dark web.
+* [DeepWeb Sites](https://www.deepweb-sites.com/) - Deep Web is something big that you can’t imagine, which is hidden in the dark side of the internet whose contents are not indexed by any standard search engines like Google or Yahoo or Bing.
+* [DeepWebSitesLinks](https://www.deepwebsiteslinks.com/) - List with links to deepwebsites.
+* [Docker-onion-nmap](https://github.com/milesrichardson/docker-onion-nmap) - Scan .onion hidden services with nmap using Tor, proxychains and dnsmasq in a minimal alpine Docker container.
+* [Exonera Tor](https://metrics.torproject.org/exonerator.html) - Enter an IP address and date to find out whether that address was used as a Tor relay.
+* [Hidden Wikitor](http://hiddenwikitor.com/) - Hidden wiki deep web links.
+* [Hunchly’s Hidden Services Report](https://www.hunch.ly/darkweb-osint/) - Our daily dark web reports can help you identify new hidden services, or find investigation targets that you might not otherwise know about.
+* [i2P](https://geti2p.net/en/) - I2P is an anonymous network built on top of the internet. It allows users to create and access content and build online communities on a network that is both distributed and dynamic.
+* [onioff](https://github.com/k4m4/onioff) -  An onion url inspector for inspecting deep web links.
+* [Onionscan](https://onionscan.org/) - OnionScan is a free and open source tool for investigating the Dark Web.
+* [Onion Land Search Engine](https://onionlandsearchengine.com/) - Discover Hidden Services and access to Tor's onion sites.
+* [Onion Search Engine](https://onionsearchengine.com/) - Search deep web pages.
+* [The Dark Websites](https://www.thedarkwebsites.com/) - Gate into the dark web.
+* [Tor2Web](https://www.tor2web.org/) - Tor is a software project that lets you anonymously browse the Internet. Tor2web is a project to let Internet users access Tor Onion Services without using Tor Browser.
+* [Tor Project](https://www.torproject.org/) - Defend yourself against tracking and surveillance.
+* [Zeronet](https://zeronet.io/) - Open, free and uncensable websites, is based on Bitcoin cryptography and the BitTorrent network.
+
+## Documents and Slides Search
+
+* [Ask the EU](
