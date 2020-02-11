@@ -32,6 +32,8 @@ This is a repo containing several osint sources.
 * [Web History and Website Capture](#web-history-and-website-capture)
 * [Researching Dark Web](#researching-dark-web)
 * [Documents and Slides Search](#documents-and-slides-search)
+* [Pastebins](#pastebins)
+* [Document and Reference Management](#document-and-reference-management)
 
 ## General Search
 
@@ -1157,3 +1159,13 @@ This is a repo containing several osint sources.
 * [SlideShare](https://www.slideshare.net/) - Share what you know and love through presentations, infographics, documents and more.
 * [Slideworld](http://www.slideworld.com/) -  On Slideworld one can search for PowerPoint presentations to help them save time and prepare an informative presentation in no time.
 * [soPDF.com](http://www.sopdf.com/) - >435.000 free PDF files.
+
+## Pastebins
+
+* [Custom Pastebin Search](https://inteltechniques.com/osint/menu.pastebins.html) - Search for custom pastebins.
+* [Pastebin](https://pastebin.com/) - Create a new pastebin.
+* [PasteLert](https://andrewmohawk.com/pasteLert/) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries. This means you will automatically recieve email whenever your term(s) is/are found in new pastebin entries.
+* [Paste Site Search](http://netbootcamp.org/pastesearch.html#gsc.tab=0) - Search 90+ paste sites and filter by source & keyword.
+
+## Document and Reference Management
+
