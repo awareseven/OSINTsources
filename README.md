@@ -30,6 +30,7 @@ This is a repo containing several osint sources.
 * [Company Research (Switzerland)](#company-research-switzerland)
 * [Domain and IP Research, Websites Analysis](#domain-and-ip-research-websites-analysis)
 * [Web History and Website Capture](#web-history-and-website-capture)
+* [Researching Dark Web](#researching-dark-web)
 
 ## General Search
 
@@ -1084,4 +1085,36 @@ This is a repo containing several osint sources.
 * [Zulu URL Risk Analyzer](https://zulu.zscaler.com/) - Zulu is a dynamic risk scoring engine for web based content.
 
 ## Web History and Website Capture
+
+* [Archive.is](http://archive.is/) - It is a tool that allows you to make a copy of any website that can be called up at any time, even if the original website is no longer online.
+* [Archive.fo](http://archive.fo/) - It is a tool that allows you to make a copy of any website that can be called up at any time, even if the original website is no longer online.
+* [Cached Pages](http://www.cachedpages.com/) - Get the cached page of any URL.
+* [Cached View](https://cachedview.nl/) - Enter your URL here to get its current status and view any cached/archived results.
+* [Common Crawl](http://commoncrawl.org/) - We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone.
+* [Convert Web to PDF](https://play.google.com/store/apps/details?id=com.smobileteam.pdf.activity) - Convert webpages to PDF files and access it anytime.
+* [Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj?hl=en) - Go back in time and see how a specific page used to look using a variety of page caching/archiving services.
+* [InstaWeb](http://www.digiset.me/instaweb/) - Convert any webpage to PDF. Instantly.
+* [Mass archive](https://github.com/motherboardgithub/mass_archive) - A basic tool for pushing a web page to multiple archiving services at once.
+* [PageDash](https://www.pagedash.com/) - Save web pages with just one click.
+* [PDFMyURL](http://pdfmyurl.com/) - Use our HTML to PDF API to create PDFs from URLs or HTML.
+* [Print Friendly](https://www.printfriendly.com/) - Make any web page Print Friendly & PDF.
+* [Print What You Like](https://www.printwhatyoulike.com/) - PrintWhatYouLike lets you print the good parts of any web page while skipping ads and other junk.
+* [Resurrect Pages](https://addons.mozilla.org/en-US/firefox/addon/resurrect-pages/) - Searches through five big page cache/mirrors.
+* [Save as PDF Add-on](https://pdfcrowd.com/save-as-pdf-addon/) - Pdfcrowd provides the online conversion form and the browser add-on that you can use to convert web pages and HTML documents in your browser.
+* [Save to Google Drive](https://chrome.google.com/webstore/detail/save-to-google-drive/gmbmikajjgmnabiglmofipeabaddhgne?hl=en) - Save web content or screen capture directly to Google Drive.
+* [Save Webpage As Word Document](https://chrome.google.com/webstore/detail/save-webpage-as-word-docu/mcebgdgbcbdkgdljffnkkbekldnidbmn?hl=en) - Create Microsoft Word document from complete or selected content of multiple web pages.
+* [Screenshots.com](http://www.screenshots.com) - It's a free service that shows you screenshots of how a domain was used in the past.
+* [Time travel](http://timetravel.mementoweb.org/) - Find Mementos in Internet Archive, Archive-It, British Library, archive.today, GitHub and many more.
+* [UK Web Archive](https://www.webarchive.org.uk/) - Search the UK Web Archive.
+* [Wayback Machine](http://archive.org/web/web.php) - Explore more than 411 billion web pages saved over time.
+* [Wayback Machine Chrome Add-on](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?hl=en-US) - Reduce annoying 404 pages by automatically checking for an archived copy in the Wayback Machine.
+* [View-pagearchive](Browser extension for viewing archived and cached versions of web pages) - Browser extension for viewing archived and cached versions of web pages.
+* [waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
+* [Web2PDF](https://www.web2pdfconvert.com/) - Convert Web Page to PDF.
+* [Web2Pdf.](https://www.microsoft.com/en-us/p/web2pdf/9nblgggz5phq?activetab=pivot:overviewtab) - Now you can save any web page as pdf and read it later.
+* [WebCitation](https://webcitation.org/query) - Find snapshots through URL.
+* [Webpage to PDF](https://webpagetopdf.com/) - Use Webpage to PDF online tool to save web pages as PDFs for storing, sharing, printing, and otherwise manipulating important web content.
+* [Webrecorded](https://webrecorder.io/) - Webrecorder creates an interactive copy of any web page that you browse, including content revealed by your interactions such as playing video and audio, scrolling, clicking buttons, and so forth.
+
+## Researching Dark Web
 
