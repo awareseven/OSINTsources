@@ -29,6 +29,7 @@ This is a repo containing several osint sources.
 * [Company Research (US)](#company-research-us)
 * [Company Research (Switzerland)](#company-research-switzerland)
 * [Domain and IP Research, Websites Analysis](#domain-and-ip-research-websites-analysis)
+* [Web History and Website Capture](#web-history-and-website-capture)
 
 ## General Search
 
@@ -917,3 +918,170 @@ This is a repo containing several osint sources.
 * [DNS Spy](https://dnsspy.io/) - Monitor, validate and verify your DNS configurations.
 * [DNSStuff](https://www.dnsstuff.com/) - Reviews, Opinions and Tools.
 * [DNS Trails](https://securitytrails.com/dns-trails) - Data for security companies, researchers and teams who need to drill down, find suspicious changes to DNS records, and prevent future fraudulent or criminal activity.
+* [dnstwister](https://dnstwister.report/) - The simple and fast domain name permutation engine.
+* [DNSViz](https://dnsviz.net/) - DNSViz is a tool for visualizing the status of a DNS zone.
+* [Domain Big Data](https://domainbigdata.com/) - Search any domain, IP, registrant name or email.
+* [Domain Crawler](http://www.domaincrawler.com/) - Search your domains.
+* [Domain Dossier](https://centralops.net/co/DomainDossier.aspx) - Investigate domains and IP addresses.
+* [Domain & IP Addresses](http://netbootcamp.org/websitetool.html) - Whois & Hosting History.
+* [DomainIQ](https://www.domainiq.com/) - Enter any domain name or IP address to view information on its ownership and status.
+* [Domain Tools](https://www.domaintools.com/) - Connect indicators from your network with nearly every active domain and IP address on the Internet.
+* [Domain Tools](http://whois.domaintools.com/) - Learn how DomainTools takes indicators from your network, including domains and IPs, and connects them with nearly every active domain on the internet.
+* [downdetector](https://downdetector.com/) - We tell you when your favorite services are down or having problems.
+* [downforeveryoneorjustme](https://downforeveryoneorjustme.com/) - This site checks if a website is down for everyone or just you.
+* [DShield API](https://isc.sans.edu/api/) - Search a keyword, domain, port or IP.
+* [EasyCounter WHois](https://whois.easycounter.com/) - Find out about people and companies standing behind a domain: reveal its current and previous ownership details.
+* [Easy whois](https://www.easywhois.com/) - easily lookup domain name whois records and DNS information for any top level domain name or IP address block.
+* [EURid](https://eurid.eu/en/) - Check if your domain name is available.
+* [Exfiltrated](http://www.exfiltrated.com/querystart.php) - Search for IP, Port or Hostname.
+* [Exonera Tor](https://metrics.torproject.org/exonerator.html) - Tor is an international software project to anonymize Internet traffic by encrypting packets and sending them through a series of hops before they reach their destination.
+* [Fierce-domain-scanner](https://github.com/davidpepper/fierce-domain-scanner) - Fierce.pl Domain Scanner.
+* [FindSubDomains](https://findsubdomains.com/) - Spyse enables you to find subdomains of any domain and reveal analytical information about companies, their security gaps, and vulnerabilities. Get an insider’s look at the infrastructure of any company in the world.
+* [Finitimus](https://chrome.google.com/webstore/detail/finitimus/ckdjcgaagfcnndkkknfmncedapdjaokb?utm_source=chromentp-icon?hl=en) - Publish Date and Related Content Add-On.
+* [Follow.net](http://follow.net/) - Over 30,000 people use Follow to gain valuable competitive insights which help them make better-informed decisions in their own business.
+* [gdns](https://github.com/hrbrmstr/gdns) - Tools to work with the Google DNS over HTTPS API in R.
+* [Geo IP Tool](https://www.geodatatool.com/) - Map with your IP-address.
+* [gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go.
+* [GoDaddy WHois](https://ca.godaddy.com/whois) - Search the whois database.
+* [GooHak](https://github.com/1N3/Goohak) - Automatically Launch Google Hacking Queries Against A Target Domain.
+* [GraphyStories](https://app.graphystories.com/domain?view=block&lang=all&filter=weekly_interactions) - Search Websites.
+* [Hexillion](https://hexillion.com/) - We provide tools for investigating, exploring, and troubleshooting Internet addresses such as domain names, IP addresses, email addresses, and URLs.
+* [HypeStat](https://hypestat.com/) - Search for top websites.
+* [Icann Whois](https://lookup.icann.org/) - Domain Name Registration Data Lookup.
+* [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/?ip=198.8.8) - Use internet connection of other people (Wi Fi, their computers, tablets and smartphones) to know what they download in torrent network, spy on them via special generated link or see other similar IPs.
+* [InfoBylp (Bulk Domain & IP Lookup)](https://www.infobyip.com/ipbulklookup.php) - Enter IPs or domains seperated by space or new line. Alternatively enter server log lines containing IPs or domains.
+* [intoDNS](https://intodns.com/) - IntoDNS checks the health and configuration and provides DNS report and mail servers report. And provides suggestions to fix and improve them, with references to protocols’ official documentation.
+* [IntelliTamper](https://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml) - An easy-to-use application which will tell you what is really behind any website, such as files and folders, including the unlisted ones.
+* [InterNIC Whois](http://www.internic.net/whois.html) - Whois Search.
+* [IP 2 Geolocation](http://ip2geolocation.com/) - IP location information.
+* [IP 2 Location](https://www.ip2location.com/) - Geo IP solution to identify country, region, city, latitude & longitude, ZIP code, time zone, connection speed, ISP, domain name, IDD country code, area code, weather station data, mobile network codes (MNC), mobile country codes (MCC), mobile carrier, elevation and usage type.
+* [IP Address](https://www.ip-address.org/) - If you are looking for the easy way to search for IP addresses location, then check and find IP owner then you are on the right address with our tracking technology.
+* [IP Address Location](http://www.ipaddresslocation.org/) - Search IP Address - what is my IP address.
+* [Ipapi Bulk IP Address Lookup](https://app.ipapi.co/bulk/) - Bulk IP address lookup tool.
+* [IP Checking](http://www.ipchecking.com/) - IP Address (IPv4 or IPv6) or Host Name.
+* [IP Chicken](https://www.ipchicken.com/) - Look up your IP Address, Remote Port and Browser.
+* [IP Data](https://ipdata.co/) - Enrich IP Addresses with Location, Company, Carrier & Threat Data.
+* [IPFingerprints](https://www.ipfingerprints.com/) - IP Address Geographical Location Finder.
+* [iphostinfo](https://iphostinfo.com/) - IP Lookup.
+* [IP Info](http://ipinfo.info/) - IP Address Info.
+* [Ipinfo.io](https://ipinfo.io/) - With IPinfo, you can pinpoint your users’ locations, customize their experiences, prevent fraud, ensure compliance, and so much more.
+* [IP Lists by FireHOL](http://iplists.firehol.org/) - This site analyses all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities.
+* [IP Location](https://www.iplocation.net/) - Where is Geolocation of an IP Address.
+* [IP to ASN](https://iptoasn.com/) - Free IP address to ASN database.
+* [IP Tracker Online](https://www.iptrackeronline.com/) - Geo Marketing, IP Adress tools and a whole lot more.
+* [IPv6 Locator](http://ipv6locator.net/) - IPv6 Locator.
+* [ipverse](http://ipverse.net/) - IPverse IP address block lists.
+* [IPVoid](https://www.ipvoid.com/) - We offer a vast range of IP address tools to discover details about IP addresses. IP blacklist check, whois lookup, dns lookup, ping, and more.
+* [iTools](http://itools.com/) - We find and share the best tools to get whatever you want done, simply.
+* [iwantmyname](https://iwantmyname.com/) - Looking for a fancy new domain name. You've come to the right place.
+* [JoeSandboxCloud](https://www.joesandbox.com/) - Joe Sandbox detects and analyzes potential malicious files and URLs on Windows, Android, Mac OS, Linux, and iOS for suspicious activities.
+* [Jotti](https://virusscan.jotti.org/) - Jotti’s Malware Scan is a free service that allows you to scan suspicious files with multiple anti-virus programs.
+* [Kloth](http://www.kloth.net/services/) - Find your IP address, and what are your browser settings.
+* [lacnic](https://www.lacnic.net/) - IP Lookup.
+* [Leaked Source](https://leakedsource.ru/) - Check for free to see if your email or account was hacked.
+* [Linktally](http://linktally.com/) - Enter any URL below and we'll count up how many times it was ever shared across the 4 major social sharing sites: Facebook, Twitter, Google Plus and LinkedIn.
+* [Majestic](https://majestic.com/) - Majestic maps the web to bring you the Link Intelligence data that you need to dominate your market.
+* [Malware Domain List](http://www.malwaredomainlist.com/mdl.php) - Shows websites with malwares.
+* [MaxMind](https://www.maxmind.com/en/home) - Detect Online Fraud and Locate Online Visitors.
+* [McAfee Customer URL Ticketing System](https://trustedsource.org/sources/index.pl) - McAfee® provides an online tool that enables you to check if a site is categorized within various versions of the SmartFilter Internet Database or the Webwasher URL Filter Database.
+* [mnemonic](https://passivedns.mnemonic.no/) - Passive dns search.
+* [moonsearch](http://moonsearch.com/) - Backlinks checker & SEO Report 500m+ urls analyzed in 24m+ domains.
+* [moreofit](http://www.moreofit.com/) - Moreofit is the first (and best) website similarity search engine. Give moreofit a website you're interested in, and it'll suggest to you alternative highly related and popular websites to explore.
+* [Mr. LOOQUER](https://mrlooquer.com/) - We analyze and survey Internet to offer organizations and security experts valuable solutions.
+* [My IP](https://www.myip.ms/) - Find Hosting Company On Any Website / Owner on Any IP Address.
+* [Netcraft Site Report](https://sitereport.netcraft.com/?url=undefined#last%20_reboot) - IP Lookup.
+* [NetStat Agent](http://netstatagent.com/) - The powerful network toolkit includes tools like: netstat, ping, whois, traceroute, route, ipconfig and arp.
+* [Network Tools](https://network-tools.com/) - The Trusted Free Online Network Tools Provider For 20 Years.
+* [Nibbler](https://nibbler.silktide.com/) - Test any website.
+* [NirSoft](http://www.nirsoft.net/) - NirSoft web site provides a unique collection of small and useful freeware utilities, all of them developed by Nir Sofer.
+* [Onyphe](https://www.onyphe.io/) - Your Internet SIEM.
+* [OpenLinkProfiler](https://www.openlinkprofiler.org/) - Analyze the links of any website for free.
+* [Open Site Explorer](https://moz.com/link-explorer) - This highly accurate link tool lets you check the backlink profile and Domain Authority of any site.
+* [PageGlimpse](http://www.pageglimpse.com/) - Information about any website.
+* [Pentest-Tools Find Subdomains](https://pentest-tools.com/information-gathering/find-subdomains-of-domain) - Discover subdomains and determine the attack surface of an organization.
+* [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - Uses advanced search operators to find juicy information about target websites.
+* [Plagiarism Checker](https://smallseotools.com/plagiarism-checker/) - Detect plagiarized content.
+* [PTRArchive](http://ptrarchive.com/) - This site is responsible for the safekeeping of historical reverse DNS records.
+* [pubDB](http://pub-db.com/) - With pubDB, you can find traffic stats of websites.
+* [Quantcast](https://www.quantcast.com/) - Radically simplifying advertising and privacy for publishers and brands.
+* [Quick Sprout](https://www.quicksprout.com/) - Grow your business, faster.
+* [RedirectDetective](https://redirectdetective.com/) - Redirect Detective is a free URL redirection checker that allows you to see the complete path a redirected URL goes through.
+* [Remote DNS Lookup](https://remote.12dt.com/) - This site performs a reverse DNS lookup of an IP address by searching domain name registry and registrar tables.
+* [Reverse DNS Lookup](https://hackertarget.com/reverse-dns-lookup) - Discover the reverse DNS entries for an IP address, a range of IP addresses or a domain name.
+* [Reverse IP to Domain Lookup](https://www.ipfingerprints.com/reverseip.php) - Reverse IP to Domains Lookup.
+* [RIPE NCC](https://www.ripe.net/) - Manage IPs and ASNs.
+* [RiskIQ](https://community.riskiq.com/) - Automated intelligence, faster decisions.
+* [Risk Neustar](https://www.home.neustar/resources/tools/ip-geolocation-lookup-tool) - Free IP Address & Geolocation Lookup Tool.
+* [Robtex](https://www.robtex.com/) - Robtex is used for various kinds of research of IP numbers, Domain names, etc.
+* [SameID](http://sameid.net/) - Check your ID.
+* [SameIP](https://www.sameip.org/) - Coupon Code Deals Site.
+* [scanless](https://github.com/vesche/scanless) - Online port scan scraper.
+* [Scans.io](https://scans.io/) - The Internet-Wide Scan Data Repository is a public archive of research datasets that describe the hosts and sites on the Internet.
+* [Security Headers](https://securityheaders.com/) - Scan your site now.
+* [SEMrush](https://www.semrush.com/) - All-in-one Marketing Toolkit for digital marketing professionals.
+* [SEO Chat Tools](https://www.pubcon.com/) - By professional digital marketers for professional digital marketers.
+* [SEO SiteCheckup Sitemap Test](https://seositecheckup.com/tools/sitemap-test) - Check if the website has a sitemap.
+* [SEOTools for Excel](https://seotoolsforexcel.com/) - With the SeoTools for Excel add-in you get access to functions that are useful when working with online marketing.
+* [Serpstat](https://serpstat.com/) - A growth hacking tool.
+* [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
+* [SIDN](https://www.sidn.nl/) - Check .nl domains.
+* [Similar Web](https://www.similarweb.com/) - Market Intelligence Solutions to Optimize your digital effectiveness.
+* [Site Dossier](http://www.sitedossier.com/) - A collection or file of documents containing information about a particular person or topic.
+* [Siteliner](http://www.siteliner.com/) - Explore your site.
+* [SiteSleuth](https://www.sitesleuth.io/) - Sleuth on your competition. Find websites owned by the same person.
+* [SmallSEOTools](https://smallseotools.com/) - A complete set of text tools is now at your fingertips. Check plagiarism, rewrite an article, run a spell checker, count words or change text case.
+* [Snusbase](https://snusbase.com/) - The longest standing data breach search engine.
+* [Software77 Multi-Lookup](http://software77.net/geo-ip/multi-lookup/) - Enter Up to 2000 or IP Addresses or 150000 Bytes.
+* [SpyOnWeb](http://spyonweb.com/) - Find out related websites.
+* [StatsCrop](https://www.statscrop.com/) - Millions of amazing websites across the web are being analyzed with StatsCrop.
+* [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers.
+* [Sucuri Free Website and Malware Scanner](https://sitecheck.sucuri.net/) - Enter a URL (ex. sucuri.net) and the Sucuri SiteCheck scanner will check the website for known malware, viruses, blacklisting status, website errors, out-of-date software, and malicious code.
+* [Symantec WebPulse Site Review Request](https://sitereview.bluecoat.com/#/) - With Site Review you can check the current WebPulse categorization of any URL and contradict it.
+* [Talos Reputation Lookup](https://talosintelligence.com/) - Search by IP, domain, or network owner for real-time threat data.
+* [TCPIPUTILS.com](https://dnslytics.com/) - Search for domain, IPv4/IPv6 or Provider.
+* [Tejji](http://tejji.com/) - Wide range of Addons (apps) for browsers like Google Chrome. Find Extensions that fit your needs.
+* [Threat Crowd](https://www.threatcrowd.org/) - A Search Engine for Threats.
+* [Threat Miner](https://www.threatminer.org/) - Data Mining for Threat Intelligence.
+* [Trend Micro Site Safety Center](https://global.sitesafety.trendmicro.com/) -  Site Safety Checker.
+* [Timer4Web](https://www.timer4web.com/) - Timer4Web is a startup focusing on domain and website big data.
+* [Tucows domains](https://www.tucowsdomains.com/) - The fastest way to resolve your issue is to contact your Domain Provider.
+* [urlscan](https://urlscan.io/) - A sandbox for the web.
+* [URLVoid](https://www.urlvoid.com/) - This service helps you detect potentially malicious websites.
+* [Utrace](http://en.utrace.de/) - See where a IP address is located at.
+* [Verisign](https://dnssec-analyzer.verisignlabs.com/) - Enter a domain name to be tested.
+* [Viewdns](https://viewdns.info/) - Tools for viewing your IP.
+* [Vigilante](https://www.vigilante.pw/) - The Breached Database Directory.
+* [Virus Total](https://www.virustotal.com/gui/home/upload) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community.
+* [Visual Site Mapper](http://www.visualsitemapper.com/) - Create a visual map of your site.
+* [W3bin.com](http://w3bin.com/) - W3bin.com is a free tool that lets you find out where websites are hosted.
+* [W3dt](https://w3dt.net/dashboard/welcome) - The Internet's one-stop, all-in-one, domain toolbox.
+* [w3snoop](https://webboar.com.w3snoop.com/) - Snoop any website.
+* [Watch Guard Reputation Authority](http://www.reputationauthority.org/) - Check your Domain/IP behavior score. Enter IP address or Domain.
+* [Web Filter Lookup](https://fortiguard.com/webfilter) - Please enter a URL or an IP address to see its category and history.
+* [WebMeUp](https://webmeup.com/) - Webmeup.com is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.
+* [WebPageTest](https://www.webpagetest.org/) - Test a website's performance.
+* [Website Informer](https://website.informer.com/) - Complete information about any website.
+* [Website Outlook](http://websiteoutlook.com/) - More then 20 Metrics to Measure & Track Success of your website.
+* [WhatIsMyIPAddress](https://whatismyipaddress.com/) - See your IP address.
+* [Whois](https://www.whois.com/) - Get a domain name with free Email, DNS, Theft Protection And Lots More.
+* [Who.is](https://who.is/) - Whois Search, Domain Name, Website, and IP Tools.
+* [Whois Amped](https://whoisamped.com/) - Whois for the Mobile Web.
+* [Whois Arin Online](https://whois.arin.net/ui/) - This is a RESTful web service for Whois data contained within ARIN's registration database.
+* [Whois.com](https://www.whois.com/) - Get a domain name with free Email, DNS, Theft Protection And Lots More.
+* [WhoIsHostingThis](https://www.whoishostingthis.com/) - Get information about the web host, IP address, name servers & more.
+* [WHOIS ICANN](https://lookup.icann.org/) - Domain Name Registration Data Lookup.
+* [WhoisLookup](http://www.puwong.com/whois) - Domain information lookup.
+* [WWHOis.net](https://whois.net/) - Whois Lookup — Domain Names Search, Registration and Availability.
+* [Whois.Search](https://whois-search.com/) - Search for a domain name or an IP address.
+* [Whoisology](https://whoisology.com/) - Deep Connections Between Domain Names & Their Owners.
+* [WhoIsRequest](https://whoisrequest.com/) - Whois Lookup tools allows you to search in public whois databases about a specific domain name or IP Address (IPv4 and IPv6). You can find domain owner contacts and other valuable information.
+* [WhoLinks2Me](http://www.wholinks2me.com/) - Domain Analyzer - an online service that allows you to find inbound links and keywords information about a website.
+* [Whoxy](https://www.whoxy.com/) - Our Whois API returns consistent and well-structured WHOIS data in XML & JSON format.
+* [Wigle](https://wigle.net/) - All the networks. Found by Everyone.
+* [Woorank](https://www.woorank.com/) - Our tools give you actionable insight to help you optimize your website and marketing efforts.
+* [xray](https://github.com/evilsocket/xray) - XRay is a tool for recon, mapping and OSINT gathering from public networks.
+* [You Get Signal](https://www.yougetsignal.com/) - Tools about IPs and more.
+* [Zulu URL Risk Analyzer](https://zulu.zscaler.com/) - Zulu is a dynamic risk scoring engine for web based content.
+
+## Web History and Website Capture
+
