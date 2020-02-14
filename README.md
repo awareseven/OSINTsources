@@ -1,5 +1,5 @@
 # osintsources
-This is a repo containing several osint sources.
+This is a repo containing several open source intelligence (OSINT) sources. Open Source Intelligence consists of every source that is freely available on the internet.
 # Contents
 * [General Search](#general-search)
 * [Meta Search](#meta-search)
