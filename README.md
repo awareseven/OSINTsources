@@ -1,5 +1,14 @@
 # osintsources
-This is a repo containing several open source intelligence (OSINT) sources. Open Source Intelligence consists of every source that is freely available on the internet.
+This is a repo containing several open source intelligence (OSINT) sources - curated by [AWARE7 GmbH](https://aware7.de). 
+
+Open Source Intelligence consists of every source that is freely available on the internet. It can be (ab)used in various kinds of ways but knowing where to find anything is quite a helpful skill in the modern age. 
+
+We use some of these sources in our Digital Risk Management Platform [RISKREX](https://riskrex.de) or in our [seminars](https://aware7.de/it-security-schulungen-workshops) on OSINT.
+
+If you find a non-working link or miss a source please report it via an issue or via mail to code(@)aware7.de
+
+![AWARE7](https://media-exp1.licdn.com/dms/image/C4D1BAQHu2w36qzQFJw/company-background_10000/0?e=1581775200&v=beta&t=OVuo0WBH_7Zmc0yP9Q4fqSSuThKKYa6c_B8r0_9Hy3o)
+
 # Contents
 * [General Search](#general-search)
 * [Meta Search](#meta-search)
