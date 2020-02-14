@@ -1,4 +1,4 @@
-# osintsources
+# OSINTsources
 This is a repo containing several open source intelligence (OSINT) sources - curated by [AWARE7 GmbH](https://aware7.de). 
 
 Open Source Intelligence consists of every source that is freely available on the internet. It can be (ab)used in various kinds of ways but knowing where to find anything is quite a helpful skill in the modern age. 
@@ -12,22 +12,22 @@ If you find a non-working link or miss a source please report it via an issue or
 # Contents
 * [General Search](#general-search)
 * [Meta Search](#meta-search)
-* [Visual Search and Clustering Search Engines](#visual-search-and-clustering-search-engines)
+* [Visual and Clustering Search Engines](#visual-search-and-clustering-search-engines)
 * [National Search Engines](#national-search-engines)
 * [FTP Search](#ftp-search)
-* [IoT Search Engines](#iot-search-engines)
-* [Real-Time Search, Social Media Search, and General Social Media Tools](#real-time-search-social-media-search-and-general-social-media-tools)
-* [Social Media Tools: Twitter](#social-media-tools-twitter)
-* [Social Media Tools: Facebook](#social-media-tools-facebook)
-* [Social Media Tools: Instagram](#social-media-tools-instagram)
-* [Social Media Tools: Reddit](#social-media-tools-reddit)
-* [Social Media Tools: VKontakte](#social-media-tools-vkontakte)
-* [Social Media Tools: LinkedIn](#social-media-tools-linkedin)
-* [Social Media Tools: WhatsApp](#social-media-tools-whatsapp)
-* [Social Media Tools: Skype](#social-media-tools-skype)
+* [Internet of Things Search Engines](#iot-search-engines)
+* [RTS, SMS, and GSM](#real-time-search-social-media-search-and-general-social-media-tools)
+* [Twitter](#social-media-tools-twitter)
+* [Facebook](#social-media-tools-facebook)
+* [Instagram](#social-media-tools-instagram)
+* [Reddit](#social-media-tools-reddit)
+* [VKontakte](#social-media-tools-vkontakte)
+* [LinkedIn](#social-media-tools-linkedin)
+* [WhatsApp](#social-media-tools-whatsapp)
+* [Skype](#social-media-tools-skype)
 * [Dating Apps](#dating-apps)
-* [Forums and Discussion Boards Search](#forums-and-discussion-boards-search)
-* [Main People Search Tools and Engines](#main-people-search-tools-and-engines)
+* [Forums Search](#forums-and-discussion-boards-search)
+* [People Search Tools](#main-people-search-tools-and-engines)
 * [Address and Contact Information Search](#address-and-contact-information-search)
 * [Public Records](#public-records)
 * [E-mail Search/E-mail Check](#e-mail-searche-mail-check)
