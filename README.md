@@ -1149,6 +1149,7 @@ If you find a non-working link or miss a source please report it via an issue or
 * [Tor2Web](https://www.tor2web.org/) - Tor is a software project that lets you anonymously browse the Internet. Tor2web is a project to let Internet users access Tor Onion Services without using Tor Browser.
 * [Tor Project](https://www.torproject.org/) - Defend yourself against tracking and surveillance.
 * [Zeronet](https://zeronet.io/) - Open, free and uncensable websites, is based on Bitcoin cryptography and the BitTorrent network.
+* [DarknetHub](https://darknethub.net/) - Community-driven blog featuring darknet related articles and onion url uptime indicators.
 
 ## Documents and Slides Search
 
