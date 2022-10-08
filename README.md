@@ -260,6 +260,7 @@ If you find a non-working link or miss a source please report it via an issue or
 * [doesfollow](https://doesfollow.com/) - Who follows whom.
 * [Download Twitter Video](https://www.downloadtwittervideo.com/) - Download Twitter Videos.
 * [Echosec](https://app.echosec.net/) - Echosec Systems is a data discovery company delivering social media and dark web threat intelligence.
+* [ExportData](https://www.exportdata.io/) - Twitter data export tools. Download followers & followings, export historical tweets since 2006 and discover historical trends.
 * [Fake Followers Check](https://fakers.statuspeople.com/) - Find out how many fake followers you and your friends have.
 * [First Tweet](http://ctrlq.org/first/) - Find anyone’s first Tweet.
 * [FlipFeed](https://www.media.mit.edu/projects/flipfeed/overview/) - FlipFeed is a Google Chrome Extension that enables Twitter users to replace their own feed with that of another real Twitter user.
