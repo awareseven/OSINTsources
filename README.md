@@ -8,7 +8,7 @@ We use some of these sources during our professional [penetration testing](https
 
 If you find a non-working link or miss a source please report it via an issue here on github or via mail to code(@)aware7.de
 
-![AWARE7](https://aware7.com/wp-content/uploads/2021/12/cropped-aware7-gmbh-logo-350-70.png)
+![AWARE7](https://aware7.com/wp-content/uploads/2021/12/aware7-schriftzug-slogan-schwarz-300x82.png)
 
 # Contents
 * [General Search](#general-search)
