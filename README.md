@@ -1271,6 +1271,7 @@ the web for you.
 * [OnWebChange](https://onwebchange.com/) - Track web page changes and get notified.
 * [urlwatch](https://github.com/thp/urlwatch) - Urlwatch monitors webpages for you.
 * [versionista](https://versionista.com/) - Track and Detect Web Page Edits.
+* [Snaplert](https://snaplert.com/) - Monitor webpages for changes with AI-powered visual diffs, element-level zone picker, and before/after screenshot alerts. Free during open beta.
 * [visualping](https://visualping.io/) - We monitor webpages… so you don't have to.
 * [WatchThatPage](http://www.watchthatpage.com/) - WatchThatPage is a service that enables you to automatically collect new information from your favorite pages on the Internet.
 * [WebSite Watcher](https://www.aignes.com/index.htm) - Monitor websites for new content and changes.
