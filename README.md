@@ -248,7 +248,7 @@ to most often.
 * [AllDeletedTweets From Politicians](https://politwoops.com/countries) - Select a country from which you want to see the deleted tweets from politicians.
 * [AllMyTweets](https://www.allmytweets.net/connect/) - View all your tweets, likes and followers on one page.
 * [Audiense](https://audiense.com/) - Discover how to best engage and activate your audiences across multiple online and offline channels. 
-* [Backtweets](http://backtweets.com/) - BackTweets enables you to search through an archive of old tweets and find tweets that link back to your site.
+* [Backtweets](https://backtweets.com/) - BackTweets enables you to search through an archive of old tweets and find tweets that link back to your site.
 * [Blue Nod](https://bluenod.com/) - Bluenod is a simple way to find influencers with Twitter visualization.
 * [Botometer](https://botometer.iuni.iu.edu/#!/) - Botometer (formerly BotOrNot) checks the activity of a Twitter account and gives it a score based on how likely the account is to be a bot.
 * [BU-TCAT](https://sites.bu.edu/cmcs/bu-tcat/) - The BU-TCAT allows Boston University students and faculty–and even off campus researchers–to examine Tweets off the STREAM API and then process 
@@ -307,7 +307,7 @@ for fun and trolling.
 * [Tweepsmap](http://tweepsmap.com/) - Analyze and target your Twitter followers by location and demographics.
 * [Tweet Archiver](https://gsuite.google.com/marketplace/app/tweet_archiver/976886281542?pann=cwsdp&hl=en) - The Twitter Archiver lets you easily save tweets for any search keyword or hashtag in a 
 Google Spreadsheet. 
-* [Tweet Archivist](http://www.tweetarchivist.com/) - Essential analytics for tracking and archiving Twitter.
+* [Tweet Archivist](https://www.tweetarchivist.com/) - Essential analytics for tracking and archiving Twitter.
 * [TweetDeck](https://tweetdeck.twitter.com/) - Twitter dashboard.
 * [TweeterID](https://tweeterid.com/) - Type in any Twitter ID or @handle below, and it will be converted into the respective ID or username.
 * [TweetMap](https://www.omnisci.com/demos/tweetmap/) - Explore millions of tweets with OmniSci's GPU-powered interactive tweetmap.
@@ -316,13 +316,13 @@ Google Spreadsheet.
 * [TweetVacuum](https://github.com/T3hUb3rK1tten/TweetVacuum) - Chrome extension to scrape a user's entire timeline, bypassing the Twitter API 3200 tweet limit.
 * [Twellow](https://twellow.com/) - Twellow is a people search tool for the micro-blogging service Twitter.
 * [Tweriod](https://www.tweriod.com/) - Analyse both your tweets and your followers’ tweets and gives you the best times to tweet.
-* [Twiangulate](http://twiangulate.com/search/) - Discover which accounts are followed by key people.
+* [Twiangulate](https://twiangulate.com/search/) - Discover which accounts are followed by key people.
 * [Twicsy](https://twicsy.com/) - Twicsy's mission is to help you navigate the constantly changing social media marketing landscape.
 * [Twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, 
 Tweets and more while evading most API limitations.
 * [Twimap](https://twimap.com/) - TwiMap let's you find Twitter users nearby you or just explore Tweets around the world.
 * [TwiSSR](http://www.twissr.com/) - Twitter to RSS Service.
-* [Twitonomy](http://www.twitonomy.com/) - Twitter analytics.
+* [Twitonomy](https://www.twitonomy.com/) - Twitter analytics.
 * [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en) - Find whatever you're looking for.
 * [Twitter Audit](https://www.twitteraudit.com/) - Twitter Audit shows you how many of your followers are real.
 * [Twitter BFTD](https://github.com/misterch0c/twitterBFTD) - Twitter Back From The Dead looks in a user tweets history for domain names that are available for registration.
@@ -337,6 +337,7 @@ Tweets and more while evading most API limitations.
 * [unfollowgram](https://unfollowgram.com/) - Best way how to manage and analyze your Twitter friends. Check who unfollowed you, who doesn't follow you back and more.
 * [Video Downloader for Twitter](https://www.downloadtwittervideo.com/) - Download Twitter Videos.
 * [Warble](https://warble.co/) - Track keywords, phrases, #hashtags, @mentions and more.
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP. Not affiliated with X Corp.
 
 ## Social Media Tools: Facebook
 
