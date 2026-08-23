@@ -563,6 +563,7 @@ more.
 * [Cubib (US)](https://www.xlek.com/) - Free public data search.
 * [DOBSEARCH](https://www.dobsearch.com/) - Find people fast.
 * [Family Watchdog (US)](https://www.familywatchdog.us/) - Family Watchdog is a free service to help locate registered sex offenders in your area.
+* [Offendersearch (US)](https://offendersearch.app/) - Free web app and API searching all 58 US state, territory, and tribal sex offender registries in a single query; scored results with official record links, plus open data and an MCP server.
 * [Find A Grave (US)](https://de.findagrave.com/) - The largest grave collection in the world.
 * [Find People Search (US)](https://www.findpeoplesearch.com/) - Enter the name of the person you are searching.
 * [Fold3 (US Military Records)](https://www.fold3.com/) - Discover your family's military past.
