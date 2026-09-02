@@ -760,6 +760,7 @@ sources.
 ## Company Research (EU)
 
 * [Bizeurope](http://www.bizeurope.com/) - Bizeurope is the leading European business directory and online since 1999.
+* [Company Records](https://records.knowyourcustomer.com/) - Free anonymous company search across 149 jurisdictions; on purchase, the company report and official filings are retrieved live from the official register (paid, from US$19).
 * [Company Registration Round the World](https://www.sg.ch/recht/handelsregister-notariate.html) - Commercial Register & Notaries.
 * [Company Research Resources by Country](http://www.rba.co.uk/sources/registers.htm) - Reporting and filing requirements for companies differ from country to country and sometimes from state to 
 state, or region to region.
