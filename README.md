@@ -323,6 +323,7 @@ Tweets and more while evading most API limitations.
 * [Twimap](https://twimap.com/) - TwiMap let's you find Twitter users nearby you or just explore Tweets around the world.
 * [TwiSSR](http://www.twissr.com/) - Twitter to RSS Service.
 * [Twitonomy](http://www.twitonomy.com/) - Twitter analytics.
+* [twtData](https://twtdata.com/) - Export followers, following and tweets of public X (Twitter) accounts to CSV.
 * [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en) - Find whatever you're looking for.
 * [Twitter Audit](https://www.twitteraudit.com/) - Twitter Audit shows you how many of your followers are real.
 * [Twitter BFTD](https://github.com/misterch0c/twitterBFTD) - Twitter Back From The Dead looks in a user tweets history for domain names that are available for registration.
